@@ -1,4 +1,5 @@
 name: Daily IEEE Digest
+# Sends the daily paper digest email from GitHub Actions.
 
 on:
   schedule:
