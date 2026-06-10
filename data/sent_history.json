@@ -13,6 +13,20 @@
       "title": "Characterizing Self-Rolled-Up Membrane Motion via Microwave Radar Interferometry",
       "journal": "IEEE Transactions on Microwave Theory and Techniques",
       "url": "https://doi.org/10.1109/tmtt.2026.3674933"
+    },
+    {
+      "date": "2026-06-10",
+      "doi": "10.1109/tmtt.2026.3679778",
+      "title": "A Reflected Phase-Regulated Metasurface Assisted by a Position-Aware Transformer Network",
+      "journal": "IEEE Transactions on Microwave Theory and Techniques",
+      "url": "https://doi.org/10.1109/tmtt.2026.3679778"
+    },
+    {
+      "date": "2026-06-10",
+      "doi": "10.1109/tmtt.2026.3682326",
+      "title": "A Single-Layer Wideband CP Filtering Reflectarray With Wide Out-of-Band Rejection via Intrinsic Orthogonality of CMs",
+      "journal": "IEEE Transactions on Microwave Theory and Techniques",
+      "url": "https://doi.org/10.1109/tmtt.2026.3682326"
     }
   ]
 }
