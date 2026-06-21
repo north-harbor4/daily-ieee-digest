@@ -167,6 +167,20 @@
       "title": "AI-Enhanced Wearable Antenna System for Wireless Capsule Endoscope Localization in Heterogeneous Environments",
       "journal": "IEEE Transactions on Antennas and Propagation",
       "url": "https://doi.org/10.1109/tap.2026.3669608"
+    },
+    {
+      "date": "2026-06-21",
+      "doi": "10.1109/tap.2026.3679709",
+      "title": "Sidelobe Suppression in 4-D Antenna Arrays Using Grouped Modulation for Low Probability of Intercept Systems",
+      "journal": "IEEE Transactions on Antennas and Propagation",
+      "url": "https://doi.org/10.1109/tap.2026.3679709"
+    },
+    {
+      "date": "2026-06-21",
+      "doi": "10.1109/tap.2026.3676051",
+      "title": "Moiré-Based Dynamic Focal Compensation in 3-D-Printed Millimeter-Wave Scanning Lens Antennas",
+      "journal": "IEEE Transactions on Antennas and Propagation",
+      "url": "https://doi.org/10.1109/tap.2026.3676051"
     }
   ],
   "digests": []
