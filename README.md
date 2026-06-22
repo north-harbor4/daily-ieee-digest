@@ -2,8 +2,8 @@
 
 `Daily IEEE Digest` 是一个基于 GitHub Actions 的论文邮件推送工具。
 
-我做这个项目的目的很简单：每天自动筛选几篇我关心方向的新论文，整理成一封短邮件发到邮箱里，这样不用反复手动刷 IEEE Xplore、Crossref 或期刊主页。
-
+每天自动筛选几篇我关心方向的新论文，整理成一封短邮件发到邮箱里，这样不用反复手动刷 IEEE Xplore、Crossref 或期刊主页。
+相信会有人有每天读两篇论文摘要的需求。
 当前仓库的默认配置，面向 IEEE 电子与通信相关方向，固定跟踪下面 3 本期刊：
 
 - IEEE Transactions on Wireless Communications (`TWC`)
@@ -16,21 +16,7 @@
 
 默认每封邮件包含：
 
-- 论文标题
-- 作者
-- 摘要
-- DOI 链接
-- 期刊名
-- 发表日期
-- 分区和影响因子信息
-
-为了避免误发无关内容，脚本还会自动过滤：
-
-- `Publication Information`
-- `Information for Authors`
-- `editorial`
-- `erratum`
-- 其他明显不是论文正文的 front matter 页面
+- 论文标题、 作者、摘要、DOI 链接、期刊名、发表日期、分区和影响因子信息
 
 同时，系统会记录已经发送过的 DOI，避免后续重复发同一篇文章。
 
@@ -40,17 +26,16 @@
 
 - 每天发送 `2` 篇论文
 - 关注电子、通信、天线、微波、雷达等方向
-- 默认运行在 GitHub Actions 上
-- 自动去重
-- 自动补摘要
+- 默认运行在 GitHub Actions 上、自动去重、自动补摘要
 
 摘要获取顺序是：
-
-1. Crossref
-2. DOI / 落地页元数据
-3. OpenAlex
-
+1. Crossref  2. DOI / 落地页元数据  3. OpenAlex
+   
 也就是说，如果某个来源没有摘要，脚本会继续尝试后面的来源，而不是直接留空。
+效果如下，每天早上会给我发两篇看看怎么个事
+<img width="250" height="400" alt="71acf266e174499253e120669290ef06" src="https://github.com/user-attachments/assets/98fa2f0b-d09b-4e32-a809-3b3adae6b413" />
+<img width="250" height="400" alt="94f4b9a4b3abfcc13f82d8528601ffd9" src="https://github.com/user-attachments/assets/6b474550-4f7e-4dd3-860e-e66516657261" />
+
 
 ## If You Want To Use It
 
@@ -64,14 +49,16 @@
 
 下面以 `163 邮箱` 为例说明。
 
-如果你使用 163 邮箱，这几步是必须先做的：
-
-1. 登录 163 邮箱网页版
-2. 打开 `设置`
-3. 找到 `POP3/SMTP/IMAP`
-4. 开启 `SMTP`
-5. 生成客户端授权码
+1. 登录手机 163 邮箱
+2. 点击右下角-我的
+3. 点击邮箱管理，点开自己的163账号
+4. 找到第三方管理
+5. 打开SMTP/POP3 并生成客户端授权码
 6. 记下这个授权码，后面填 `SMTP_PASS` 时要用
+
+<img width="270" height="600" alt="b1b37c7f3b178d4b7016c7dd65a46042" src="https://github.com/user-attachments/assets/86d914ad-0016-4b4f-a067-21ca018d3426" />
+
+如果你使用 163 邮箱，亲测移动版效果最佳，网页版也可以但是授权码会自动刷新，不稳定：
 
 ### 3. 配置 GitHub Secrets
 
@@ -79,7 +66,7 @@
 
 `Settings -> Secrets and variables -> Actions -> New repository secret`
 
-添加下面 5 个值：
+修改下面 5 个值：
 
 ```text
 SMTP_HOST=smtp.163.com
@@ -113,7 +100,7 @@ Email sent.
 
 ## What You Usually Need To Modify
 
-大多数人真正需要改的，通常只有 1 个文件：
+打开配置文件，替换成你想要的期刊，设置想要的、排除的关键词：
 
 `config/journals.json`
 
@@ -153,7 +140,7 @@ Email sent.
 
 ## Local Preview
 
-如果你想先在本地只预览、不发邮件：
+本地只预览、不发邮件：
 
 ```bash
 python scripts/daily_ieee_digest.py --config config/journals.json
@@ -182,21 +169,15 @@ powershell -ExecutionPolicy Bypass -File scripts\send_test_163.ps1
 
 ### Change Send Count
 
-修改 `.github/workflows/daily-ieee-digest.yml` 里的：
+改变每日发送的数量:修改 `.github/workflows/daily-ieee-digest.yml` 里的：
 
 ```yaml
-DIGEST_MAX_ARTICLES: "2"
-```
-
-例如改成每天 5 篇：
-
-```yaml
-DIGEST_MAX_ARTICLES: "5"
+DIGEST_MAX_ARTICLES: "2"   //想发5篇就改成5
 ```
 
 ### Change Send Time
 
-默认是北京时间早上 8 点附近。
+设置每日几点推送:默认是北京时间早上 8 点附近。
 
 如果你想改成北京时间 21:30，可以把 cron 改成：
 
@@ -212,36 +193,31 @@ DIGEST_NOT_BEFORE: "21:00"
 
 ### Change Search Range
 
-默认配置：
+默认配置：该期刊最近三年的100条候选记录
 
 ```yaml
-DIGEST_DAYS_BACK: "1095"
-DIGEST_ROWS_PER_JOURNAL: "100"
+DIGEST_DAYS_BACK: "1095"  //向前检索多少天
+DIGEST_ROWS_PER_JOURNAL: "100" //每个期刊从 Crossref 拉多少候选记录
 ```
 
-含义：
-
-- `DIGEST_DAYS_BACK`：向前检索多少天
-- `DIGEST_ROWS_PER_JOURNAL`：每个期刊从 Crossref 拉多少候选记录
 
 ## FAQ
+### 我配置不好怎么办？
+
+让AI带着配或者codex等自动配置
 
 ### 为什么不是严格整点发送？
 
 GitHub Actions 的定时触发可能有延迟，所以 workflow 里用了主触发加备份触发，再结合本地日期去重，尽量保证每天只发一次。
 
-### 为什么有时摘要来源不一样？
+### 能拿到PDF原文吗？
 
-不同论文在不同元数据源上的完整度不一样。脚本会优先使用更直接的来源，如果拿不到，再自动回退到其他公开学术元数据源。
+目前我只有推送摘要的需求，需要检索原文的话，我做了paper_index-skills，可以让agent自动检索相关论文并保存至zotero，但是目前有些问题等解决后开源。
 
-### 为什么不会重复发同一篇论文？
+### 会重复发同一篇论文？
 
-已经发送过的 DOI 会写入：
+设置过，不会重复发送同一篇论文
 
-`data/sent_history.json`
+### 其他邮箱能用吗？
 
-后续运行时会自动跳过这些 DOI。
-
-### 如果邮箱授权码泄露了怎么办？
-
-去邮箱后台立即停用或重新生成授权码，然后更新仓库里的 `SMTP_PASS` secret。
+能的，开启STMP/POP3就行，设置好授权码，目前因为常用163，只测试了163，另外163网页端和客户端都不好使，移动端效果不错。
