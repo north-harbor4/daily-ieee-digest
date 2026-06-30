@@ -307,6 +307,20 @@
       "title": "RF-3DGS: Wireless Channel Modeling With Radio Radiance Field and 3D Gaussian Splatting",
       "journal": "IEEE Transactions on Wireless Communications",
       "url": "https://doi.org/10.1109/twc.2026.3652154"
+    },
+    {
+      "date": "2026-06-30",
+      "doi": "10.1109/tap.2026.3669212",
+      "title": "Simultaneous Dual-Circularly Polarized 2-D Beam-Scanning Low-Profile Folded Reflectarray",
+      "journal": "IEEE Transactions on Antennas and Propagation",
+      "url": "https://doi.org/10.1109/tap.2026.3669212"
+    },
+    {
+      "date": "2026-06-30",
+      "doi": "10.1109/tap.2026.3672978",
+      "title": "High-Gain Printed Helical Antenna Driven by Resonant Planar Endfire Circularly Polarized Launcher",
+      "journal": "IEEE Transactions on Antennas and Propagation",
+      "url": "https://doi.org/10.1109/tap.2026.3672978"
     }
   ],
   "digests": []
