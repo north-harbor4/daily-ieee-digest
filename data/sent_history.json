@@ -377,6 +377,20 @@
       "title": "Latency-Aware Resource Allocation for Integrated Communications, Computation, and Sensing in Cell-Free mMIMO Systems",
       "journal": "IEEE Transactions on Wireless Communications",
       "url": "https://doi.org/10.1109/twc.2026.3657950"
+    },
+    {
+      "date": "2026-07-05",
+      "doi": "10.1109/tap.2026.3676801",
+      "title": "A Reconfigurable Simultaneous Transmitting and Reflecting Array With Independent and Continuous Controls of Phases and Transmission-Reflection Ratio",
+      "journal": "IEEE Transactions on Antennas and Propagation",
+      "url": "https://doi.org/10.1109/tap.2026.3676801"
+    },
+    {
+      "date": "2026-07-05",
+      "doi": "10.1109/tap.2026.3679765",
+      "title": "Ku-Band Tile-Based Metal-Only Mechanically Controlled 2-D Beam-Scanning Circularly Polarized Reflectarray",
+      "journal": "IEEE Transactions on Antennas and Propagation",
+      "url": "https://doi.org/10.1109/tap.2026.3679765"
     }
   ],
   "digests": []
