@@ -391,6 +391,20 @@
       "title": "Ku-Band Tile-Based Metal-Only Mechanically Controlled 2-D Beam-Scanning Circularly Polarized Reflectarray",
       "journal": "IEEE Transactions on Antennas and Propagation",
       "url": "https://doi.org/10.1109/tap.2026.3679765"
+    },
+    {
+      "date": "2026-07-06",
+      "doi": "10.1109/tap.2026.3673006",
+      "title": "Analysis and Design of Compact Pin-Loaded Endfire Leaky Wave Antenna With Stable Beam Pattern",
+      "journal": "IEEE Transactions on Antennas and Propagation",
+      "url": "https://doi.org/10.1109/tap.2026.3673006"
+    },
+    {
+      "date": "2026-07-06",
+      "doi": "10.1109/tap.2026.3668269",
+      "title": "High-Efficiency Octa-Band Antenna for LTE/WWAN Unbroken-Metal-Frame Smartwatch Applications",
+      "journal": "IEEE Transactions on Antennas and Propagation",
+      "url": "https://doi.org/10.1109/tap.2026.3668269"
     }
   ],
   "digests": []
