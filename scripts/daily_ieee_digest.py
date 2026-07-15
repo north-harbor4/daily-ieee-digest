@@ -506,11 +506,17 @@ def render_html(articles: list[Candidate]) -> str:
 
 
 def send_email(subject: str, text_body: str, html_body: str) -> None:
-    host = os.environ["SMTP_HOST"]
-    port = int(os.environ.get("SMTP_PORT", "465"))
-    user = os.environ["SMTP_USER"]
-    password = os.environ["SMTP_PASS"]
-    mail_to = os.environ["MAIL_TO"]
+    def required_env(name: str) -> str:
+        value = os.environ.get(name, "").strip()
+        if not value:
+            raise RuntimeError(f"Missing required environment variable: {name}")
+        return value
+
+    host = required_env("SMTP_HOST")
+    port = int(os.environ.get("SMTP_PORT", "").strip() or "465")
+    user = required_env("SMTP_USER")
+    password = required_env("SMTP_PASS")
+    mail_to = required_env("MAIL_TO")
     mail_from = os.environ.get("MAIL_FROM") or user
 
     msg = email.message.EmailMessage()
