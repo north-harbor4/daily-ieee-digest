@@ -42,7 +42,12 @@ jobs:
           DIGEST_ROWS_PER_JOURNAL: "100"
           DIGEST_TIMEZONE: "Asia/Shanghai"
           DIGEST_NOT_BEFORE: "21:00"
-        run: python scripts/daily_ieee_digest.py --config config/journals.json --send --update-history --once-per-local-date
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            python scripts/daily_ieee_digest.py --config config/journals.json --send --update-history --force
+          else
+            python scripts/daily_ieee_digest.py --config config/journals.json --send --update-history --once-per-local-date
+          fi
 
       - name: Commit sent history
         run: |

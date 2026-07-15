@@ -544,11 +544,12 @@ def main() -> int:
     parser.add_argument("--timezone", default=os.environ.get("DIGEST_TIMEZONE", "Asia/Shanghai"))
     parser.add_argument("--not-before", default=os.environ.get("DIGEST_NOT_BEFORE", "21:00"))
     parser.add_argument("--once-per-local-date", action="store_true")
+    parser.add_argument("--force", action="store_true", help="Bypass the daily time window and once-per-date guard.")
     args = parser.parse_args()
 
     config = load_config(args.config)
     history = load_history(args.history)
-    if args.once_per_local_date:
+    if args.once_per_local_date and not args.force:
         skip_reason = should_skip_for_daily_window(
             history,
             args.timezone,
