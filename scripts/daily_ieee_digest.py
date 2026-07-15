@@ -22,7 +22,7 @@ import urllib.parse
 import urllib.request
 from dataclasses import dataclass
 from typing import Any
-from zoneinfo import ZoneInfo
+from zoneinfo import ZoneInfo, ZoneInfoNotFoundError
 
 
 CROSSREF_API = "https://api.crossref.org/journals/{issn}/works"
@@ -112,7 +112,14 @@ def history_digest_dates(history: dict[str, Any]) -> set[str]:
 
 
 def local_now(timezone_name: str) -> dt.datetime:
-    return dt.datetime.now(ZoneInfo(timezone_name))
+    try:
+        timezone = ZoneInfo(timezone_name)
+    except ZoneInfoNotFoundError:
+        if timezone_name == "Asia/Shanghai":
+            timezone = dt.timezone(dt.timedelta(hours=8), name="Asia/Shanghai")
+        else:
+            raise
+    return dt.datetime.now(timezone)
 
 
 def should_skip_for_daily_window(
@@ -441,7 +448,7 @@ def select_articles(candidates: list[Candidate], limit: int, excluded_dois: set[
 def render_text(articles: list[Candidate]) -> str:
     today = dt.date.today().isoformat()
     lines = [
-        f"Daily IEEE Electronic and Communication Digest - {today}",
+        f"Daily IEEE PHM and Intelligent Systems Digest - {today}",
         "",
     ]
     for idx, item in enumerate(articles, 1):
@@ -470,7 +477,7 @@ def render_text(articles: list[Candidate]) -> str:
 def render_html(articles: list[Candidate]) -> str:
     today = dt.date.today().isoformat()
     blocks = [
-        f"<h2>Daily IEEE Electronic and Communication Digest - {html.escape(today)}</h2>",
+        f"<h2>Daily IEEE PHM and Intelligent Systems Digest - {html.escape(today)}</h2>",
     ]
     for idx, item in enumerate(articles, 1):
         metrics = item.metrics
@@ -530,12 +537,12 @@ def main() -> int:
     parser.add_argument("--config", default="config/journals.json")
     parser.add_argument("--send", action="store_true", help="Send email via SMTP.")
     parser.add_argument("--days-back", type=int, default=int(os.environ.get("DIGEST_DAYS_BACK", "1095")))
-    parser.add_argument("--limit", type=int, default=int(os.environ.get("DIGEST_MAX_ARTICLES", "2")))
+    parser.add_argument("--limit", type=int, default=int(os.environ.get("DIGEST_MAX_ARTICLES", "3")))
     parser.add_argument("--rows-per-journal", type=int, default=int(os.environ.get("DIGEST_ROWS_PER_JOURNAL", "100")))
     parser.add_argument("--history", default="data/sent_history.json")
     parser.add_argument("--update-history", action="store_true", help="Record successfully emailed DOIs.")
     parser.add_argument("--timezone", default=os.environ.get("DIGEST_TIMEZONE", "Asia/Shanghai"))
-    parser.add_argument("--not-before", default=os.environ.get("DIGEST_NOT_BEFORE", "07:30"))
+    parser.add_argument("--not-before", default=os.environ.get("DIGEST_NOT_BEFORE", "21:00"))
     parser.add_argument("--once-per-local-date", action="store_true")
     args = parser.parse_args()
 
@@ -567,7 +574,7 @@ def main() -> int:
 
     print(text_body)
     if args.send:
-        subject = f"IEEE电子通信论文摘要 - {local_now(args.timezone).date().isoformat()}"
+        subject = f"IEEE PHM and Intelligent Systems Digest - {local_now(args.timezone).date().isoformat()}"
         send_email(subject, text_body, html_body)
         if args.update_history:
             update_history(args.history, history, articles, args.timezone)
