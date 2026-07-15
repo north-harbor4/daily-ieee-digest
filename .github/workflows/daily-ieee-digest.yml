@@ -31,6 +31,7 @@ jobs:
 
       - name: Send daily digest
         env:
+          SHD: ${{ secrets.SHD }}
           SMTP_HOST: ${{ secrets.SMTP_HOST }}
           SMTP_PORT: ${{ secrets.SMTP_PORT }}
           SMTP_USER: ${{ secrets.SMTP_USER }}
@@ -42,7 +43,25 @@ jobs:
           DIGEST_ROWS_PER_JOURNAL: "100"
           DIGEST_TIMEZONE: "Asia/Shanghai"
           DIGEST_NOT_BEFORE: "21:00"
+        shell: bash
         run: |
+          set -euo pipefail
+
+          if [ -n "${SHD:-}" ]; then
+            while IFS='=' read -r key value || [ -n "$key" ]; do
+              key="${key%$'\r'}"
+              value="${value%$'\r'}"
+              case "$key" in
+                SMTP_HOST|SMTP_PORT|SMTP_USER|SMTP_PASS|MAIL_TO|MAIL_FROM)
+                  if [ -z "${!key:-}" ] && [ -n "$value" ]; then
+                    export "$key=$value"
+                  fi
+                  ;;
+              esac
+            done <<< "$SHD"
+            unset SHD
+          fi
+
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
             python scripts/daily_ieee_digest.py --config config/journals.json --send --update-history --force
           else
