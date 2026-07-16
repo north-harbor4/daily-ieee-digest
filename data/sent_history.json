@@ -552,6 +552,27 @@
       "title": "A Hybrid Embedding Method for Identifying Technology Evolution Paths of Patents: The Case on Battery Electric Vehicle Industry",
       "journal": "IEEE Transactions on Engineering Management",
       "url": "https://doi.org/10.1109/tem.2025.3634974"
+    },
+    {
+      "date": "2026-07-16",
+      "doi": "10.1109/tim.2026.3709477",
+      "title": "A Fault Diagnosis Method for Surge Arresters Based on Distributed In Situ Measurement Technology",
+      "journal": "IEEE Transactions on Instrumentation and Measurement",
+      "url": "https://doi.org/10.1109/tim.2026.3709477"
+    },
+    {
+      "date": "2026-07-16",
+      "doi": "10.1109/tim.2026.3699641",
+      "title": "NPLNet: A Noise-Prior Lightweight Network for On-Device Acoustic Fault Diagnosis of Railway Point Machines From Noisy Measurements",
+      "journal": "IEEE Transactions on Instrumentation and Measurement",
+      "url": "https://doi.org/10.1109/tim.2026.3699641"
+    },
+    {
+      "date": "2026-07-16",
+      "doi": "10.1109/tim.2026.3652707",
+      "title": "Fault Diagnosis of Motor Bearing Under Variable Operating Conditions Based on CDAN-SM",
+      "journal": "IEEE Transactions on Instrumentation and Measurement",
+      "url": "https://doi.org/10.1109/tim.2026.3652707"
     }
   ],
   "digests": []
