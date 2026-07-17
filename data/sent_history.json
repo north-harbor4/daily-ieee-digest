@@ -573,6 +573,27 @@
       "title": "Fault Diagnosis of Motor Bearing Under Variable Operating Conditions Based on CDAN-SM",
       "journal": "IEEE Transactions on Instrumentation and Measurement",
       "url": "https://doi.org/10.1109/tim.2026.3652707"
+    },
+    {
+      "date": "2026-07-17",
+      "doi": "10.1109/tie.2026.3670293",
+      "title": "A Novel High-Accuracy Interturn Fault Diagnosis Technique for Switched Reluctance Motors Based on Inductance Profile and Superposition Principle",
+      "journal": "IEEE Transactions on Industrial Electronics",
+      "url": "https://doi.org/10.1109/tie.2026.3670293"
+    },
+    {
+      "date": "2026-07-17",
+      "doi": "10.1109/tie.2026.3670237",
+      "title": "Data Augmentation by Time-Frequency Feature Reconstruction for Few-Shot Multifault Diagnosis of PMSM",
+      "journal": "IEEE Transactions on Industrial Electronics",
+      "url": "https://doi.org/10.1109/tie.2026.3670237"
+    },
+    {
+      "date": "2026-07-17",
+      "doi": "10.1109/tie.2026.3670362",
+      "title": "Adaptive Fault Detection and Communication-Based Fault Isolation in BSS to Prevent EV Battery Discharge",
+      "journal": "IEEE Transactions on Industrial Electronics",
+      "url": "https://doi.org/10.1109/tie.2026.3670362"
     }
   ],
   "digests": []
