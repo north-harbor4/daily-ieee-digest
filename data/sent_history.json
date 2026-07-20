@@ -636,6 +636,27 @@
       "title": "Battery as a Service Versus Complete Vehicle Sales: A Perspective of Consumer Resale Anxiety",
       "journal": "IEEE Transactions on Engineering Management",
       "url": "https://doi.org/10.1109/tem.2025.3641294"
+    },
+    {
+      "date": "2026-07-20",
+      "doi": "10.1109/tim.2026.3652691",
+      "title": "Multiscale and Multiorientation Log-Gabor Network for Feature Learning of Vibration Signals in Bearing Fault Diagnosis",
+      "journal": "IEEE Transactions on Instrumentation and Measurement",
+      "url": "https://doi.org/10.1109/tim.2026.3652691"
+    },
+    {
+      "date": "2026-07-20",
+      "doi": "10.1109/tim.2026.3657544",
+      "title": "TacShade 2.0: A New Greyscale Pattern-Based Optical Tactile Sensor for Robotic Perception and Adaptive Admittance Control",
+      "journal": "IEEE Transactions on Instrumentation and Measurement",
+      "url": "https://doi.org/10.1109/tim.2026.3657544"
+    },
+    {
+      "date": "2026-07-20",
+      "doi": "10.1109/tim.2026.3704087",
+      "title": "New Guideline of Variational Mode Decomposition for Compound Rotating Machinery Fault Diagnosis",
+      "journal": "IEEE Transactions on Instrumentation and Measurement",
+      "url": "https://doi.org/10.1109/tim.2026.3704087"
     }
   ],
   "digests": []
