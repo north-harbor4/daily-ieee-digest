@@ -657,6 +657,27 @@
       "title": "New Guideline of Variational Mode Decomposition for Compound Rotating Machinery Fault Diagnosis",
       "journal": "IEEE Transactions on Instrumentation and Measurement",
       "url": "https://doi.org/10.1109/tim.2026.3704087"
+    },
+    {
+      "date": "2026-07-21",
+      "doi": "10.1109/tem.2026.3695109",
+      "title": "Blood Procurement With Prescriptive Analytics and Deep-Learning Method",
+      "journal": "IEEE Transactions on Engineering Management",
+      "url": "https://doi.org/10.1109/tem.2026.3695109"
+    },
+    {
+      "date": "2026-07-21",
+      "doi": "10.1109/tem.2026.3698594",
+      "title": "AR-COMPASS: A Framework for Tacit Knowledge Capturing in Industrial Maintenance",
+      "journal": "IEEE Transactions on Engineering Management",
+      "url": "https://doi.org/10.1109/tem.2026.3698594"
+    },
+    {
+      "date": "2026-07-21",
+      "doi": "10.1109/tem.2026.3695002",
+      "title": "Digital Twin Architecture for Drone Logistics Operations",
+      "journal": "IEEE Transactions on Engineering Management",
+      "url": "https://doi.org/10.1109/tem.2026.3695002"
     }
   ],
   "digests": []
