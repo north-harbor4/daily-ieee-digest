@@ -720,6 +720,27 @@
       "title": "Dynamic Identification of Generative AI Skills: A Structural Topic Modeling Approach",
       "journal": "IEEE Transactions on Engineering Management",
       "url": "https://doi.org/10.1109/tem.2025.3648144"
+    },
+    {
+      "date": "2026-07-24",
+      "doi": "10.1109/tim.2026.3712982",
+      "title": "A sample selecting reinforcement learning domain adaptation framework for train bogie fault diagnosis under data quality fluctuation",
+      "journal": "IEEE Transactions on Instrumentation and Measurement",
+      "url": "https://doi.org/10.1109/tim.2026.3712982"
+    },
+    {
+      "date": "2026-07-24",
+      "doi": "10.1109/tim.2026.3676168",
+      "title": "Diagnosis of Open-Circuit Faults in Single-Phase Three-Level Rectifiers Under Unknown Parameter Using VDFRLS and Discrete Adaptive Sliding Mode Observer",
+      "journal": "IEEE Transactions on Instrumentation and Measurement",
+      "url": "https://doi.org/10.1109/tim.2026.3676168"
+    },
+    {
+      "date": "2026-07-24",
+      "doi": "10.1109/tim.2026.3677996",
+      "title": "A Digital Compressed Sensing Framework With Optimized Measurement, Quantization, and Sparse Recovery for IoT-Enabled Wearable Edge ECG Health Monitoring Devices",
+      "journal": "IEEE Transactions on Instrumentation and Measurement",
+      "url": "https://doi.org/10.1109/tim.2026.3677996"
     }
   ],
   "digests": []
