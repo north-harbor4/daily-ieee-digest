@@ -741,6 +741,27 @@
       "title": "A Digital Compressed Sensing Framework With Optimized Measurement, Quantization, and Sparse Recovery for IoT-Enabled Wearable Edge ECG Health Monitoring Devices",
       "journal": "IEEE Transactions on Instrumentation and Measurement",
       "url": "https://doi.org/10.1109/tim.2026.3677996"
+    },
+    {
+      "date": "2026-07-25",
+      "doi": "10.1109/tie.2025.3647929",
+      "title": "Fault-Tolerant Control Framework for Quadcopters With Implementation-Decoupled Fault Diagnosis and Continuum Control Allocation",
+      "journal": "IEEE Transactions on Industrial Electronics",
+      "url": "https://doi.org/10.1109/tie.2025.3647929"
+    },
+    {
+      "date": "2026-07-25",
+      "doi": "10.1109/tie.2026.3672787",
+      "title": "Open-Circuit Fault Diagnosis for Power Converters Under Variable Operational Conditions: From a Source-Free Domain Adaptation Perspective",
+      "journal": "IEEE Transactions on Industrial Electronics",
+      "url": "https://doi.org/10.1109/tie.2026.3672787"
+    },
+    {
+      "date": "2026-07-25",
+      "doi": "10.1109/tie.2026.3675174",
+      "title": "Position Sensorless and Fault-Tolerance Control of Medium Speed SRMs via Self-Correcting Inductance-Based Observer",
+      "journal": "IEEE Transactions on Industrial Electronics",
+      "url": "https://doi.org/10.1109/tie.2026.3675174"
     }
   ],
   "digests": []
