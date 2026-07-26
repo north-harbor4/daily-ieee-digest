@@ -762,6 +762,27 @@
       "title": "Position Sensorless and Fault-Tolerance Control of Medium Speed SRMs via Self-Correcting Inductance-Based Observer",
       "journal": "IEEE Transactions on Industrial Electronics",
       "url": "https://doi.org/10.1109/tie.2026.3675174"
+    },
+    {
+      "date": "2026-07-26",
+      "doi": "10.1109/tii.2026.3672888",
+      "title": "Hierarchical Task-Building-Based Multisource Adaptive Meta Transfer Learning for Cross-Domain Fault Diagnosis",
+      "journal": "IEEE Transactions on Industrial Informatics",
+      "url": "https://doi.org/10.1109/tii.2026.3672888"
+    },
+    {
+      "date": "2026-07-26",
+      "doi": "10.1109/tii.2026.3672994",
+      "title": "TF-ProFM: Prototype-Based Time–Frequency Foundation Model for Generalizable Industrial Bearing Fault Diagnosis",
+      "journal": "IEEE Transactions on Industrial Informatics",
+      "url": "https://doi.org/10.1109/tii.2026.3672994"
+    },
+    {
+      "date": "2026-07-26",
+      "doi": "10.1109/tii.2026.3675738",
+      "title": "Automated UAV Controller Synthesis via LLM-Generated Control Logic and Particle Swarm Optimization",
+      "journal": "IEEE Transactions on Industrial Informatics",
+      "url": "https://doi.org/10.1109/tii.2026.3675738"
     }
   ],
   "digests": []
