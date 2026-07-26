@@ -448,7 +448,7 @@ def select_articles(candidates: list[Candidate], limit: int, excluded_dois: set[
 def render_text(articles: list[Candidate]) -> str:
     today = dt.date.today().isoformat()
     lines = [
-        f"Daily IEEE PHM and Intelligent Systems Digest - {today}",
+        f"Daily IEEE Wearable Sensors and Tactile Robotics Digest - {today}",
         "",
     ]
     for idx, item in enumerate(articles, 1):
@@ -477,7 +477,7 @@ def render_text(articles: list[Candidate]) -> str:
 def render_html(articles: list[Candidate]) -> str:
     today = dt.date.today().isoformat()
     blocks = [
-        f"<h2>Daily IEEE PHM and Intelligent Systems Digest - {html.escape(today)}</h2>",
+        f"<h2>Daily IEEE Wearable Sensors and Tactile Robotics Digest - {html.escape(today)}</h2>",
     ]
     for idx, item in enumerate(articles, 1):
         metrics = item.metrics
@@ -548,7 +548,7 @@ def main() -> int:
     parser.add_argument("--history", default="data/sent_history.json")
     parser.add_argument("--update-history", action="store_true", help="Record successfully emailed DOIs.")
     parser.add_argument("--timezone", default=os.environ.get("DIGEST_TIMEZONE", "Asia/Shanghai"))
-    parser.add_argument("--not-before", default=os.environ.get("DIGEST_NOT_BEFORE", "21:00"))
+    parser.add_argument("--not-before", default=os.environ.get("DIGEST_NOT_BEFORE", "08:00"))
     parser.add_argument("--once-per-local-date", action="store_true")
     parser.add_argument("--force", action="store_true", help="Bypass the daily time window and once-per-date guard.")
     args = parser.parse_args()
@@ -581,7 +581,7 @@ def main() -> int:
 
     print(text_body)
     if args.send:
-        subject = f"IEEE PHM and Intelligent Systems Digest - {local_now(args.timezone).date().isoformat()}"
+        subject = f"IEEE Wearable Sensors and Tactile Robotics Digest - {local_now(args.timezone).date().isoformat()}"
         send_email(subject, text_body, html_body)
         if args.update_history:
             update_history(args.history, history, articles, args.timezone)

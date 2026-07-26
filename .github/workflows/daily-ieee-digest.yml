@@ -3,13 +3,13 @@ name: Daily IEEE Digest
 
 on:
   schedule:
-    # Primary 21:00 Beijing time (UTC+8).
-    - cron: "0 13 * * *"
+    # Primary 08:00 Beijing time (UTC+8).
+    - cron: "0 0 * * *"
     # Backup wake-ups. GitHub schedule can be delayed for hours; the script
-    # sends only once per Beijing date and only after 21:00 Asia/Shanghai.
-    - cron: "30 13 * * *"
-    - cron: "0 14 * * *"
-    - cron: "30 14 * * *"
+    # sends only once per Beijing date and only after 08:00 Asia/Shanghai.
+    - cron: "30 0 * * *"
+    - cron: "0 1 * * *"
+    - cron: "30 1 * * *"
   workflow_dispatch:
 
 jobs:
@@ -42,7 +42,7 @@ jobs:
           DIGEST_MAX_ARTICLES: "3"
           DIGEST_ROWS_PER_JOURNAL: "100"
           DIGEST_TIMEZONE: "Asia/Shanghai"
-          DIGEST_NOT_BEFORE: "21:00"
+          DIGEST_NOT_BEFORE: "08:00"
         shell: bash
         run: |
           set -euo pipefail
