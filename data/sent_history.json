@@ -783,6 +783,27 @@
       "title": "Automated UAV Controller Synthesis via LLM-Generated Control Logic and Particle Swarm Optimization",
       "journal": "IEEE Transactions on Industrial Informatics",
       "url": "https://doi.org/10.1109/tii.2026.3675738"
+    },
+    {
+      "date": "2026-07-27",
+      "doi": "10.1109/tem.2026.3709585",
+      "title": "Endogenous Resilience: Yield-Driven Portfolio in Semiconductor Supply Chains",
+      "journal": "IEEE Transactions on Engineering Management",
+      "url": "https://doi.org/10.1109/tem.2026.3709585"
+    },
+    {
+      "date": "2026-07-27",
+      "doi": "10.1109/tem.2026.3705880",
+      "title": "Graph Machine Learning-Enabled Automated Classification Decision for Spare Parts Inventory Management at Railway Stations",
+      "journal": "IEEE Transactions on Engineering Management",
+      "url": "https://doi.org/10.1109/tem.2026.3705880"
+    },
+    {
+      "date": "2026-07-27",
+      "doi": "10.1109/tem.2025.3649729",
+      "title": "A Novel Hybrid Price Prediction Method Using Multimodal Deep Learning and LLM for New Energy Power Raw Materials",
+      "journal": "IEEE Transactions on Engineering Management",
+      "url": "https://doi.org/10.1109/tem.2025.3649729"
     }
   ],
   "digests": []
