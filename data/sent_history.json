@@ -804,6 +804,27 @@
       "title": "A Novel Hybrid Price Prediction Method Using Multimodal Deep Learning and LLM for New Energy Power Raw Materials",
       "journal": "IEEE Transactions on Engineering Management",
       "url": "https://doi.org/10.1109/tem.2025.3649729"
+    },
+    {
+      "date": "2026-07-28",
+      "doi": "10.1109/tim.2026.3654712",
+      "title": "Deep Learning-Enhanced Adaptive Statistical Nonholonomic Constraint Navigation Method for GNSS-Denied Environments",
+      "journal": "IEEE Transactions on Instrumentation and Measurement",
+      "url": "https://doi.org/10.1109/tim.2026.3654712"
+    },
+    {
+      "date": "2026-07-28",
+      "doi": "10.1109/tim.2026.3670583",
+      "title": "SINS/DVL Calibration Optimization and Robust Integrated Navigation Method for AUVs",
+      "journal": "IEEE Transactions on Instrumentation and Measurement",
+      "url": "https://doi.org/10.1109/tim.2026.3670583"
+    },
+    {
+      "date": "2026-07-28",
+      "doi": "10.1109/tim.2026.3680188",
+      "title": "Dual-Foot Inertial Pedestrian Navigation With Graduated Nonconvexity Factor Graph Optimization",
+      "journal": "IEEE Transactions on Instrumentation and Measurement",
+      "url": "https://doi.org/10.1109/tim.2026.3680188"
     }
   ],
   "digests": []
