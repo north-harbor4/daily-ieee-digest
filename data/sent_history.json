@@ -825,6 +825,27 @@
       "title": "Dual-Foot Inertial Pedestrian Navigation With Graduated Nonconvexity Factor Graph Optimization",
       "journal": "IEEE Transactions on Instrumentation and Measurement",
       "url": "https://doi.org/10.1109/tim.2026.3680188"
+    },
+    {
+      "date": "2026-07-29",
+      "doi": "10.1109/tii.2026.3674487",
+      "title": "Integrated Design of Data-Driven Fault Detection and Fault-Tolerant Control for Industrial Systems Based on Nuclear Norm Subspace Identification Under Limited Samples",
+      "journal": "IEEE Transactions on Industrial Informatics",
+      "url": "https://doi.org/10.1109/tii.2026.3674487"
+    },
+    {
+      "date": "2026-07-29",
+      "doi": "10.1109/tii.2026.3677480",
+      "title": "Decoupling Global and Local Alignments: Dual-Stream Collaborative Regularization for Single-Source Cross-Condition Fault Diagnosis",
+      "journal": "IEEE Transactions on Industrial Informatics",
+      "url": "https://doi.org/10.1109/tii.2026.3677480"
+    },
+    {
+      "date": "2026-07-29",
+      "doi": "10.1109/tii.2026.3670431",
+      "title": "Fault Diagnosis and Initial Alignment of Redundant SINS Under Large Misalignment Angle",
+      "journal": "IEEE Transactions on Industrial Informatics",
+      "url": "https://doi.org/10.1109/tii.2026.3670431"
     }
   ],
   "digests": []
