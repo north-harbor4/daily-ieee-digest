@@ -874,6 +874,27 @@
       "title": "Maintenance Enhancement for a Fleet of Self-Service Systems: A Customer-Incentive-Embedded Dynamic Maintenance Policy",
       "journal": "IEEE Transactions on Engineering Management",
       "url": "https://doi.org/10.1109/tem.2026.3718524"
+    },
+    {
+      "date": "2026-08-01",
+      "doi": "10.1109/tie.2026.3675101",
+      "title": "Permanent Magnet Synchronous Motor Stator Current AM–FM Model and Demodulation Analysis for Demagnetization Fault Diagnosis",
+      "journal": "IEEE Transactions on Industrial Electronics",
+      "url": "https://doi.org/10.1109/tie.2026.3675101"
+    },
+    {
+      "date": "2026-08-01",
+      "doi": "10.1109/tie.2026.3677610",
+      "title": "Zero-Shot Open Circuit Fault Diagnosis of Converter Based on Prior-Knowledge Injected Dual Bayesian Network With Attention Mechanism",
+      "journal": "IEEE Transactions on Industrial Electronics",
+      "url": "https://doi.org/10.1109/tie.2026.3677610"
+    },
+    {
+      "date": "2026-08-01",
+      "doi": "10.1109/tie.2026.3677646",
+      "title": "Phenomenological Modeling and Tracking Control for Photothermal-Driven Liquid Crystal Elastomer Actuator Without Temperature Measurement",
+      "journal": "IEEE Transactions on Industrial Electronics",
+      "url": "https://doi.org/10.1109/tie.2026.3677646"
     }
   ],
   "digests": []
