@@ -895,6 +895,27 @@
       "title": "Phenomenological Modeling and Tracking Control for Photothermal-Driven Liquid Crystal Elastomer Actuator Without Temperature Measurement",
       "journal": "IEEE Transactions on Industrial Electronics",
       "url": "https://doi.org/10.1109/tie.2026.3677646"
+    },
+    {
+      "date": "2026-08-02",
+      "doi": "10.1109/tim.2026.3664372",
+      "title": "A Novel Simultaneous Calibration Method With Radius Constraint for 3-D Robot Measurement",
+      "journal": "IEEE Transactions on Instrumentation and Measurement",
+      "url": "https://doi.org/10.1109/tim.2026.3664372"
+    },
+    {
+      "date": "2026-08-02",
+      "doi": "10.1109/tim.2026.3711323",
+      "title": "A Rectifier-Side Resistance Measurement-Based Method for Self-Initiated Fault Recovery in LCC-HVDC Systems",
+      "journal": "IEEE Transactions on Instrumentation and Measurement",
+      "url": "https://doi.org/10.1109/tim.2026.3711323"
+    },
+    {
+      "date": "2026-08-02",
+      "doi": "10.1109/tim.2026.3712970",
+      "title": "Enhancing Precision in Light Exposure Monitoring: A Novel Neural Networks-Based Spectral Reconstruction Method for Wearable Light Sensors",
+      "journal": "IEEE Transactions on Instrumentation and Measurement",
+      "url": "https://doi.org/10.1109/tim.2026.3712970"
     }
   ],
   "digests": []
