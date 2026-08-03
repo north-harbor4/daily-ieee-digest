@@ -916,6 +916,27 @@
       "title": "Enhancing Precision in Light Exposure Monitoring: A Novel Neural Networks-Based Spectral Reconstruction Method for Wearable Light Sensors",
       "journal": "IEEE Transactions on Instrumentation and Measurement",
       "url": "https://doi.org/10.1109/tim.2026.3712970"
+    },
+    {
+      "date": "2026-08-03",
+      "doi": "10.1109/tii.2026.3676471",
+      "title": "Improved Delay-Dependent Stability of Load-Frequency Control System With Electric Vehicles and Uncertain Parameters",
+      "journal": "IEEE Transactions on Industrial Informatics",
+      "url": "https://doi.org/10.1109/tii.2026.3676471"
+    },
+    {
+      "date": "2026-08-03",
+      "doi": "10.1109/tii.2026.3677264",
+      "title": "Multiexpert Inference Model Based on Belief Rule Base Under Uncertainty for Complex System Performance Evaluation",
+      "journal": "IEEE Transactions on Industrial Informatics",
+      "url": "https://doi.org/10.1109/tii.2026.3677264"
+    },
+    {
+      "date": "2026-08-03",
+      "doi": "10.1109/tii.2026.3673932",
+      "title": "An Efficient Wind Farm Condition Monitoring Method Balancing Complexity and Performance",
+      "journal": "IEEE Transactions on Industrial Informatics",
+      "url": "https://doi.org/10.1109/tii.2026.3673932"
     }
   ],
   "digests": []
