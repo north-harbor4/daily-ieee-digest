@@ -937,6 +937,27 @@
       "title": "An Efficient Wind Farm Condition Monitoring Method Balancing Complexity and Performance",
       "journal": "IEEE Transactions on Industrial Informatics",
       "url": "https://doi.org/10.1109/tii.2026.3673932"
+    },
+    {
+      "date": "2026-08-06",
+      "doi": "10.1109/tii.2026.3682922",
+      "title": "Impulsive Observer-Based Fault-Tolerant Control for Singular PDE Systems: Application to Input–Output Control System",
+      "journal": "IEEE Transactions on Industrial Informatics",
+      "url": "https://doi.org/10.1109/tii.2026.3682922"
+    },
+    {
+      "date": "2026-08-06",
+      "doi": "10.1109/tii.2026.3684180",
+      "title": "Multiview Scalogram Fusion With Adaptive SE-CNNs for Bearing Fault Diagnosis",
+      "journal": "IEEE Transactions on Industrial Informatics",
+      "url": "https://doi.org/10.1109/tii.2026.3684180"
+    },
+    {
+      "date": "2026-08-06",
+      "doi": "10.1109/tii.2026.3680831",
+      "title": "Observer-Based Adaptive Practical Fixed-Time Event-Triggered Fault-Tolerant Control for Nonlinear Systems With Sensor Faults",
+      "journal": "IEEE Transactions on Industrial Informatics",
+      "url": "https://doi.org/10.1109/tii.2026.3680831"
     }
   ],
   "digests": [
