@@ -4,11 +4,15 @@
 
 每天自动筛选几篇我关心方向的新论文，整理成一封短邮件发到邮箱里，这样不用反复手动刷 IEEE Xplore、Crossref 或期刊主页。
 相信会有人有每天读两篇论文摘要的需求。
-当前仓库的默认配置，面向 IEEE 电子与通信相关方向，固定跟踪下面 3 本期刊：
+当前仓库的默认配置，面向柔性力触觉传感器及机器人应用、穿戴式生物传感系统、柔性微纳集成传感系统方向，固定跟踪下面 7 本期刊：
 
-- IEEE Transactions on Wireless Communications (`TWC`)
-- IEEE Transactions on Antennas and Propagation (`TAP`)
-- IEEE Transactions on Microwave Theory and Techniques (`TMTT`)
+- IEEE Sensors Journal (`SENSJ`)
+- IEEE Transactions on Haptics (`TOH`)
+- IEEE Transactions on Biomedical Engineering (`TBME`)
+- IEEE Transactions on Biomedical Circuits and Systems (`TBIOCAS`)
+- IEEE Transactions on Neural Systems and Rehabilitation Engineering (`TNSRE`)
+- IEEE Robotics and Automation Letters (`RAL`)
+- IEEE Transactions on Robotics (`TRO`)
 
 脚本会从这些期刊里检索候选论文，再按关键词筛选，最后每天发送少量结果到邮箱。
 
@@ -24,8 +28,8 @@
 
 当前仓库默认行为如下：
 
-- 每天发送 `2` 篇论文
-- 关注电子、通信、天线、微波、雷达等方向
+- 每天发送 `3` 篇论文
+- 关注柔性力触觉传感器及机器人应用、穿戴式生物传感系统、柔性微纳集成传感系统
 - 默认运行在 GitHub Actions 上、自动去重、自动补摘要
 
 摘要获取顺序是：
@@ -117,13 +121,16 @@ Email sent.
 
 ```json
 "include_keywords": [
-  "antenna",
-  "beamforming",
-  "communication",
-  "mimo",
-  "microwave",
-  "radar",
-  "wireless"
+  "flexible force sensor",
+  "tactile sensor",
+  "soft robotics",
+  "wearable biosensor",
+  "electronic skin",
+  "stretchable",
+  "micro-nano",
+  "nanowire",
+  "mems",
+  "integrated sensor"
 ]
 ```
 
@@ -131,11 +138,15 @@ Email sent.
 
 ```json
 "exclude_keywords": [
-  "bio",
-  "chemical",
-  "materials",
-  "polymer",
-  "thin film"
+  "antenna",
+  "beamforming",
+  "microwave",
+  "millimeter-wave",
+  "mimo",
+  "metasurface",
+  "wireless communication",
+  "logistics",
+  "supply chain"
 ]
 ```
 
