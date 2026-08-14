@@ -1007,6 +1007,27 @@
       "title": "Carbon Electrodes Coupled With Paper-Based Microfluidics for Simultaneous Electrochemical Detection of Cadmium and Lead",
       "journal": "IEEE Sensors Journal",
       "url": "https://doi.org/10.1109/jsen.2026.3705853"
+    },
+    {
+      "date": "2026-08-14",
+      "doi": "10.1109/tbme.2026.3705372",
+      "title": "Training an Unconstrained 6 DOF Biomimetic Robotic Eye With Deep Reinforcement Learning",
+      "journal": "IEEE Transactions on Biomedical Engineering",
+      "url": "https://doi.org/10.1109/tbme.2026.3705372"
+    },
+    {
+      "date": "2026-08-14",
+      "doi": "10.1109/tbme.2026.3707798",
+      "title": "Use of RPNIs and Implanted Electrodes for Prosthetic Wrist and Multi-Grip Hand Control During Functional Tasks: A Case Study",
+      "journal": "IEEE Transactions on Biomedical Engineering",
+      "url": "https://doi.org/10.1109/tbme.2026.3707798"
+    },
+    {
+      "date": "2026-08-14",
+      "doi": "10.1109/tbme.2026.3683482",
+      "title": "FEMBA on the Edge: Physiologically-Aware Pre-Training, Quantization, and Deployment of a Bidirectional Mamba EEG Foundation Model on an Ultra-Low Power Microcontroller",
+      "journal": "IEEE Transactions on Biomedical Engineering",
+      "url": "https://doi.org/10.1109/tbme.2026.3683482"
     }
   ],
   "digests": [
