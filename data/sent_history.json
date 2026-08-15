@@ -1028,6 +1028,27 @@
       "title": "FEMBA on the Edge: Physiologically-Aware Pre-Training, Quantization, and Deployment of a Bidirectional Mamba EEG Foundation Model on an Ultra-Low Power Microcontroller",
       "journal": "IEEE Transactions on Biomedical Engineering",
       "url": "https://doi.org/10.1109/tbme.2026.3683482"
+    },
+    {
+      "date": "2026-08-15",
+      "doi": "10.1109/lra.2026.3711368",
+      "title": "FG-CLTP: Fine-Grained Contrastive Language Tactile Pretraining for Robotic Manipulation",
+      "journal": "IEEE Robotics and Automation Letters",
+      "url": "https://doi.org/10.1109/lra.2026.3711368"
+    },
+    {
+      "date": "2026-08-15",
+      "doi": "10.1109/lra.2026.3719233",
+      "title": "MemoAct: Atkinson–Shiffrin-Inspired Hierarchical Memory-Augmented Policy for Robotic Manipulation",
+      "journal": "IEEE Robotics and Automation Letters",
+      "url": "https://doi.org/10.1109/lra.2026.3719233"
+    },
+    {
+      "date": "2026-08-15",
+      "doi": "10.1109/lra.2026.3710324",
+      "title": "Maximum Stiffness of Impact-Robust Actuators in Highly Dynamic Robotics Tasks: Application to Series Elastic Actuator Design",
+      "journal": "IEEE Robotics and Automation Letters",
+      "url": "https://doi.org/10.1109/lra.2026.3710324"
     }
   ],
   "digests": [
