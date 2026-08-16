@@ -1049,6 +1049,27 @@
       "title": "Maximum Stiffness of Impact-Robust Actuators in Highly Dynamic Robotics Tasks: Application to Series Elastic Actuator Design",
       "journal": "IEEE Robotics and Automation Letters",
       "url": "https://doi.org/10.1109/lra.2026.3710324"
+    },
+    {
+      "date": "2026-08-16",
+      "doi": "10.1109/jsen.2026.3710419",
+      "title": "Differential Electrodes Piezoelectric MEMS Hydrophone Based on Beam-Island Structure With High Sensitivity and Stability",
+      "journal": "IEEE Sensors Journal",
+      "url": "https://doi.org/10.1109/jsen.2026.3710419"
+    },
+    {
+      "date": "2026-08-16",
+      "doi": "10.1109/jsen.2026.3709683",
+      "title": "Development of a Piezoelectric Force Sensor for Space Microvibration Measurement",
+      "journal": "IEEE Sensors Journal",
+      "url": "https://doi.org/10.1109/jsen.2026.3709683"
+    },
+    {
+      "date": "2026-08-16",
+      "doi": "10.1109/jsen.2026.3704328",
+      "title": "High-Sensitivity Photoacoustic Gas Detection Based on a PMN-PT Piezoelectric Cantilever",
+      "journal": "IEEE Sensors Journal",
+      "url": "https://doi.org/10.1109/jsen.2026.3704328"
     }
   ],
   "digests": [
