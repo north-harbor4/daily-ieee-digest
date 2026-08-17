@@ -1070,6 +1070,27 @@
       "title": "High-Sensitivity Photoacoustic Gas Detection Based on a PMN-PT Piezoelectric Cantilever",
       "journal": "IEEE Sensors Journal",
       "url": "https://doi.org/10.1109/jsen.2026.3704328"
+    },
+    {
+      "date": "2026-08-17",
+      "doi": "10.1109/tro.2025.3641751",
+      "title": "A Cable-Driven Soft Robotic Hand With an In-Hand RGB-D Camera for Dexterous Grasping and Manipulation",
+      "journal": "IEEE Transactions on Robotics",
+      "url": "https://doi.org/10.1109/tro.2025.3641751"
+    },
+    {
+      "date": "2026-08-17",
+      "doi": "10.1109/tro.2025.3645962",
+      "title": "A Multifingered Robotic Hand With Fiber-Optic Force and Tactile Sensing for Remote Manipulation",
+      "journal": "IEEE Transactions on Robotics",
+      "url": "https://doi.org/10.1109/tro.2025.3645962"
+    },
+    {
+      "date": "2026-08-17",
+      "doi": "10.1109/tro.2026.3686277",
+      "title": "TensorTouch: Calibration of Tactile Sensors for High Resolution Stress Tensor and Deformation for Dexterous Manipulation",
+      "journal": "IEEE Transactions on Robotics",
+      "url": "https://doi.org/10.1109/tro.2026.3686277"
     }
   ],
   "digests": [
