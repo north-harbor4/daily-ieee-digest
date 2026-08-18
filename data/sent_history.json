@@ -1091,6 +1091,27 @@
       "title": "TensorTouch: Calibration of Tactile Sensors for High Resolution Stress Tensor and Deformation for Dexterous Manipulation",
       "journal": "IEEE Transactions on Robotics",
       "url": "https://doi.org/10.1109/tro.2026.3686277"
+    },
+    {
+      "date": "2026-08-18",
+      "doi": "10.1109/toh.2026.3668127",
+      "title": "Lightweight Wearable Fingertip Haptic Device With 3-DOF Directional Force Feedback Based on Fingernail Stimulation",
+      "journal": "IEEE Transactions on Haptics",
+      "url": "https://doi.org/10.1109/toh.2026.3668127"
+    },
+    {
+      "date": "2026-08-18",
+      "doi": "10.1109/toh.2026.3681472",
+      "title": "Virtual Reality Mediated Haptic Robot Telemanipulation Without Cameras: Technology and Pilot Study",
+      "journal": "IEEE Transactions on Haptics",
+      "url": "https://doi.org/10.1109/toh.2026.3681472"
+    },
+    {
+      "date": "2026-08-18",
+      "doi": "10.1109/toh.2026.3684095",
+      "title": "On the Systematic Design Framework for Intuitive Interfaces in Telerobotic Operations: A Case Study in Surgical Robotics",
+      "journal": "IEEE Transactions on Haptics",
+      "url": "https://doi.org/10.1109/toh.2026.3684095"
     }
   ],
   "digests": [
