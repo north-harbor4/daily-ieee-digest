@@ -1112,6 +1112,27 @@
       "title": "On the Systematic Design Framework for Intuitive Interfaces in Telerobotic Operations: A Case Study in Surgical Robotics",
       "journal": "IEEE Transactions on Haptics",
       "url": "https://doi.org/10.1109/toh.2026.3684095"
+    },
+    {
+      "date": "2026-08-19",
+      "doi": "10.1109/lra.2026.3710341",
+      "title": "MOP: A Multimodal Object-Aware Policy for Robotic Manipulation via Geometry-Guided Fusion and Trajectory Prediction",
+      "journal": "IEEE Robotics and Automation Letters",
+      "url": "https://doi.org/10.1109/lra.2026.3710341"
+    },
+    {
+      "date": "2026-08-19",
+      "doi": "10.1109/lra.2026.3710367",
+      "title": "CoLA-Flow Policy: Temporally Coherent Imitation Learning via Continuous Latent Action Flow Matching for Robotic Manipulation",
+      "journal": "IEEE Robotics and Automation Letters",
+      "url": "https://doi.org/10.1109/lra.2026.3710367"
+    },
+    {
+      "date": "2026-08-19",
+      "doi": "10.1109/lra.2026.3717194",
+      "title": "Compact Robotic System for Mononostril Endoscopic Transnasal Transsphenoidal Surgery",
+      "journal": "IEEE Robotics and Automation Letters",
+      "url": "https://doi.org/10.1109/lra.2026.3717194"
     }
   ],
   "digests": [
