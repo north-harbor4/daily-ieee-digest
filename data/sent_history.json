@@ -1154,6 +1154,27 @@
       "title": "Wide-field OCT Guided Robotic Laser Ablation for Intelligent Minimally Invasive Theranostics",
       "journal": "IEEE Robotics and Automation Letters",
       "url": "https://doi.org/10.1109/lra.2026.3715035"
+    },
+    {
+      "date": "2026-08-21",
+      "doi": "10.1109/tbme.2025.3634552",
+      "title": "Quasi-Static Elastography-Driven Automated Robotic Ultrasound Screening and Localization",
+      "journal": "IEEE Transactions on Biomedical Engineering",
+      "url": "https://doi.org/10.1109/tbme.2025.3634552"
+    },
+    {
+      "date": "2026-08-21",
+      "doi": "10.1109/tbme.2025.3631143",
+      "title": "Explainable ECG Analysis by Explicit Information Disentanglement With VAEs",
+      "journal": "IEEE Transactions on Biomedical Engineering",
+      "url": "https://doi.org/10.1109/tbme.2025.3631143"
+    },
+    {
+      "date": "2026-08-21",
+      "doi": "10.1109/tbme.2025.3631604",
+      "title": "SDDA: Spatial Distillation Based Distribution Alignment for Cross-Headset EEG Classification",
+      "journal": "IEEE Transactions on Biomedical Engineering",
+      "url": "https://doi.org/10.1109/tbme.2025.3631604"
     }
   ],
   "digests": [
