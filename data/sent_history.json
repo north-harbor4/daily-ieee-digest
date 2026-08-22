@@ -1175,6 +1175,27 @@
       "title": "SDDA: Spatial Distillation Based Distribution Alignment for Cross-Headset EEG Classification",
       "journal": "IEEE Transactions on Biomedical Engineering",
       "url": "https://doi.org/10.1109/tbme.2025.3631604"
+    },
+    {
+      "date": "2026-08-22",
+      "doi": "10.1109/tnsre.2026.3719626",
+      "title": "Feasibility and Effects of a Soft-Wearable Robotic Suit Assisting Hip Extension in Older Adults: A Pilot study",
+      "journal": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+      "url": "https://doi.org/10.1109/tnsre.2026.3719626"
+    },
+    {
+      "date": "2026-08-22",
+      "doi": "10.1109/tnsre.2026.3696575",
+      "title": "Gait Adaptation to Asymmetric Foot-Ground Compliance Applied by Robotic Footwear",
+      "journal": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+      "url": "https://doi.org/10.1109/tnsre.2026.3696575"
+    },
+    {
+      "date": "2026-08-22",
+      "doi": "10.1109/tnsre.2026.3713028",
+      "title": "iFEMG-Based Muscle Function Assessment for Rehabilitation Monitoring After Knee Anterior Cruciate Ligament Repair Surgery",
+      "journal": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+      "url": "https://doi.org/10.1109/tnsre.2026.3713028"
     }
   ],
   "digests": [
