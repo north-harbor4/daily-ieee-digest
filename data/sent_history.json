@@ -1196,6 +1196,27 @@
       "title": "iFEMG-Based Muscle Function Assessment for Rehabilitation Monitoring After Knee Anterior Cruciate Ligament Repair Surgery",
       "journal": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
       "url": "https://doi.org/10.1109/tnsre.2026.3713028"
+    },
+    {
+      "date": "2026-08-23",
+      "doi": "10.1109/tro.2026.3716051",
+      "title": "Continuum Jacobian-Based Computational Morphogenesis for Soft Robotic Workspace Optimization",
+      "journal": "IEEE Transactions on Robotics",
+      "url": "https://doi.org/10.1109/tro.2026.3716051"
+    },
+    {
+      "date": "2026-08-23",
+      "doi": "10.1109/tro.2026.3701576",
+      "title": "Cross-Behavior Learning With Object Flow Prediction for Robotic Manipulation",
+      "journal": "IEEE Transactions on Robotics",
+      "url": "https://doi.org/10.1109/tro.2026.3701576"
+    },
+    {
+      "date": "2026-08-23",
+      "doi": "10.1109/tro.2026.3701579",
+      "title": "MobileROS: A Wireless-Native Robot Operating System for Mobile Robotics",
+      "journal": "IEEE Transactions on Robotics",
+      "url": "https://doi.org/10.1109/tro.2026.3701579"
     }
   ],
   "digests": [
