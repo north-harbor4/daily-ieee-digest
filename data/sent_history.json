@@ -1217,6 +1217,27 @@
       "title": "MobileROS: A Wireless-Native Robot Operating System for Mobile Robotics",
       "journal": "IEEE Transactions on Robotics",
       "url": "https://doi.org/10.1109/tro.2026.3701579"
+    },
+    {
+      "date": "2026-08-24",
+      "doi": "10.1109/tbme.2025.3639477",
+      "title": "Assessing the Robustness of Deep Learning Based Brain Age Prediction Models Across Multiple EEG Datasets",
+      "journal": "IEEE Transactions on Biomedical Engineering",
+      "url": "https://doi.org/10.1109/tbme.2025.3639477"
+    },
+    {
+      "date": "2026-08-24",
+      "doi": "10.1109/tbme.2025.3635264",
+      "title": "Data Augmentation via Digital Twins to Develop Personalized Deep Learning Glucose Prediction Algorithms for Type 1 Diabetes in Poor Data Context",
+      "journal": "IEEE Transactions on Biomedical Engineering",
+      "url": "https://doi.org/10.1109/tbme.2025.3635264"
+    },
+    {
+      "date": "2026-08-24",
+      "doi": "10.1109/tbme.2025.3630112",
+      "title": "Contrast-Based Artifact Removal Enables Microstate Analysis in Ambulatory EEG",
+      "journal": "IEEE Transactions on Biomedical Engineering",
+      "url": "https://doi.org/10.1109/tbme.2025.3630112"
     }
   ],
   "digests": [
