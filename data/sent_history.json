@@ -1238,6 +1238,27 @@
       "title": "Contrast-Based Artifact Removal Enables Microstate Analysis in Ambulatory EEG",
       "journal": "IEEE Transactions on Biomedical Engineering",
       "url": "https://doi.org/10.1109/tbme.2025.3630112"
+    },
+    {
+      "date": "2026-08-25",
+      "doi": "10.1109/tbme.2025.3633555",
+      "title": "Smartphone-Based Blood Pressure Monitoring via the Oscillometric Finger Pressing Method: Investigation of the DC Component of PPG",
+      "journal": "IEEE Transactions on Biomedical Engineering",
+      "url": "https://doi.org/10.1109/tbme.2025.3633555"
+    },
+    {
+      "date": "2026-08-25",
+      "doi": "10.1109/tbme.2025.3623237",
+      "title": "Prostate Targeting: Compact Robot With Harmonic Stepper Motors for MRI-Guided Needle Therapy",
+      "journal": "IEEE Transactions on Biomedical Engineering",
+      "url": "https://doi.org/10.1109/tbme.2025.3623237"
+    },
+    {
+      "date": "2026-08-25",
+      "doi": "10.1109/tbme.2025.3622032",
+      "title": "Impact of Multi-View Fusion and Biomechanical Modeling on Markerless Motion Tracking",
+      "journal": "IEEE Transactions on Biomedical Engineering",
+      "url": "https://doi.org/10.1109/tbme.2025.3622032"
     }
   ],
   "digests": [
