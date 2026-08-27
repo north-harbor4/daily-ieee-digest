@@ -1280,6 +1280,27 @@
       "title": "User-Centered Design of a Dexterous Hand Prosthesis: Hierarchical Sensorimotor Controller Based on the Three-Axis Tactile Feedback and EMG Decoder",
       "journal": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
       "url": "https://doi.org/10.1109/tnsre.2026.3692027"
+    },
+    {
+      "date": "2026-08-27",
+      "doi": "10.1109/tbme.2025.3624878",
+      "title": "Cross-Hemispheric Spatial-Temporal Attention Network for Decoding Silent Speech From EEG",
+      "journal": "IEEE Transactions on Biomedical Engineering",
+      "url": "https://doi.org/10.1109/tbme.2025.3624878"
+    },
+    {
+      "date": "2026-08-27",
+      "doi": "10.1109/tbme.2025.3629563",
+      "title": "An Active Dry-Contact Continuous EEG Monitoring System for Seizure Detection Applications in Clinical Neurophysiology",
+      "journal": "IEEE Transactions on Biomedical Engineering",
+      "url": "https://doi.org/10.1109/tbme.2025.3629563"
+    },
+    {
+      "date": "2026-08-27",
+      "doi": "10.1109/tbme.2025.3628167",
+      "title": "A Spatial-Spectral-Temporal Representation Method Based on Riemannian Manifold for EEG Individual Identification",
+      "journal": "IEEE Transactions on Biomedical Engineering",
+      "url": "https://doi.org/10.1109/tbme.2025.3628167"
     }
   ],
   "digests": [
