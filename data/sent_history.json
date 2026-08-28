@@ -1301,6 +1301,27 @@
       "title": "A Spatial-Spectral-Temporal Representation Method Based on Riemannian Manifold for EEG Individual Identification",
       "journal": "IEEE Transactions on Biomedical Engineering",
       "url": "https://doi.org/10.1109/tbme.2025.3628167"
+    },
+    {
+      "date": "2026-08-28",
+      "doi": "10.1109/tbcas.2026.3685945",
+      "title": "On-Device Maternal–Fetal Heart Monitoring From Abdominal ECG Using a NEO-Based Adaptive Predictor",
+      "journal": "IEEE Transactions on Biomedical Circuits and Systems",
+      "url": "https://doi.org/10.1109/tbcas.2026.3685945"
+    },
+    {
+      "date": "2026-08-28",
+      "doi": "10.1109/tbcas.2026.3654620",
+      "title": "DERMIS: End-to-End Design of a Fully Integrated Large-Area Grasp-State-Adaptive Tactile Sensor System on a-IGZO TFT",
+      "journal": "IEEE Transactions on Biomedical Circuits and Systems",
+      "url": "https://doi.org/10.1109/tbcas.2026.3654620"
+    },
+    {
+      "date": "2026-08-28",
+      "doi": "10.1109/tbcas.2026.3652501",
+      "title": "BioGAP-Ultra: A Modular Edge-AI Platform for Wearable Multimodal Biosignal Acquisition and Processing",
+      "journal": "IEEE Transactions on Biomedical Circuits and Systems",
+      "url": "https://doi.org/10.1109/tbcas.2026.3652501"
     }
   ],
   "digests": [
