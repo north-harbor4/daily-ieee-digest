@@ -1343,6 +1343,27 @@
       "title": "Is Diversity All You Need for Scalable Robotic Manipulation?",
       "journal": "IEEE Transactions on Robotics",
       "url": "https://doi.org/10.1109/tro.2026.3686184"
+    },
+    {
+      "date": "2026-08-30",
+      "doi": "10.1109/jsen.2026.3709797",
+      "title": "Noncontact Multifinger Microgesture Recognition Using Frequency-Modulated Continuous-Wave Ultrasonics and Piezoelectric Micromachined Ultrasonic Transducer Arrays",
+      "journal": "IEEE Sensors Journal",
+      "url": "https://doi.org/10.1109/jsen.2026.3709797"
+    },
+    {
+      "date": "2026-08-30",
+      "doi": "10.1109/jsen.2026.3706139",
+      "title": "LPSN: A Learnable Parametric Spectral Network for Wearable Human Activity Recognition",
+      "journal": "IEEE Sensors Journal",
+      "url": "https://doi.org/10.1109/jsen.2026.3706139"
+    },
+    {
+      "date": "2026-08-30",
+      "doi": "10.1109/jsen.2026.3704876",
+      "title": "Compact High-Performance Sensing Platform for Environmental Trace-Gas Monitoring Using MEMS-Based Thermal IR Detectors",
+      "journal": "IEEE Sensors Journal",
+      "url": "https://doi.org/10.1109/jsen.2026.3704876"
     }
   ],
   "digests": [
