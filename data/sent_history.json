@@ -1427,6 +1427,27 @@
       "title": "EEG-Based Auditory Attention Decoding for Speaker Identification Under Mixed-Speech Hearing-Assistive Conditions",
       "journal": "IEEE Transactions on Biomedical Engineering",
       "url": "https://doi.org/10.1109/tbme.2025.3647138"
+    },
+    {
+      "date": "2026-09-03",
+      "doi": "10.1109/tnsre.2026.3687960",
+      "title": "Recent Advances in Supplementary Haptic Feedback for Human–Machine Interfaces in Upper Limb Assistance and Rehabilitation",
+      "journal": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+      "url": "https://doi.org/10.1109/tnsre.2026.3687960"
+    },
+    {
+      "date": "2026-09-03",
+      "doi": "10.1109/tnsre.2026.3725746",
+      "title": "Hierarchical Biomarker Modeling for Facial Paralysis Assessment and Rehabilitation Monitoring",
+      "journal": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+      "url": "https://doi.org/10.1109/tnsre.2026.3725746"
+    },
+    {
+      "date": "2026-09-03",
+      "doi": "10.1109/tnsre.2026.3664180",
+      "title": "Combined Acoustic-Acupuncture Stimulation Demonstrates Efficacy in Primary Tinnitus Rehabilitation: Objective Evidence From EEG Brain Network Analysis",
+      "journal": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+      "url": "https://doi.org/10.1109/tnsre.2026.3664180"
     }
   ],
   "digests": [
