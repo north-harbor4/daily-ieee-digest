@@ -1448,6 +1448,27 @@
       "title": "Combined Acoustic-Acupuncture Stimulation Demonstrates Efficacy in Primary Tinnitus Rehabilitation: Objective Evidence From EEG Brain Network Analysis",
       "journal": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
       "url": "https://doi.org/10.1109/tnsre.2026.3664180"
+    },
+    {
+      "date": "2026-09-04",
+      "doi": "10.1109/tbcas.2025.3646017",
+      "title": "Cardiovascular Disease Classification System With ECG-Gating PCG Algorithm and Programmable AI Accelerator Design",
+      "journal": "IEEE Transactions on Biomedical Circuits and Systems",
+      "url": "https://doi.org/10.1109/tbcas.2025.3646017"
+    },
+    {
+      "date": "2026-09-04",
+      "doi": "10.1109/tbcas.2025.3626662",
+      "title": "A Verilog-A-Based Redox-Signal Transduction Model for Co-Simulating Surface-Bound Electrochemical Biosensors and Circuits",
+      "journal": "IEEE Transactions on Biomedical Circuits and Systems",
+      "url": "https://doi.org/10.1109/tbcas.2025.3626662"
+    },
+    {
+      "date": "2026-09-04",
+      "doi": "10.1109/tbcas.2025.3641977",
+      "title": "Mm-Wave CMOS Biosensor With Integrated Dielectrophoresis for Single-Cell Detection and Characterization",
+      "journal": "IEEE Transactions on Biomedical Circuits and Systems",
+      "url": "https://doi.org/10.1109/tbcas.2025.3641977"
     }
   ],
   "digests": [
