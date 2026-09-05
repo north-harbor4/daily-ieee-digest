@@ -1469,6 +1469,27 @@
       "title": "Mm-Wave CMOS Biosensor With Integrated Dielectrophoresis for Single-Cell Detection and Characterization",
       "journal": "IEEE Transactions on Biomedical Circuits and Systems",
       "url": "https://doi.org/10.1109/tbcas.2025.3641977"
+    },
+    {
+      "date": "2026-09-05",
+      "doi": "10.1109/jsen.2026.3716240",
+      "title": "Hybrid Honeycomb Piezoresistive Tactile Sensor With Wide Range and High Sensitivity",
+      "journal": "IEEE Sensors Journal",
+      "url": "https://doi.org/10.1109/jsen.2026.3716240"
+    },
+    {
+      "date": "2026-09-05",
+      "doi": "10.1109/jsen.2026.3716800",
+      "title": "Piezoresistive Compressive Strain Sensor Based on MWCNT-Coated Porous PDMS Foam: Fabrication, Characterization, and Wearable Application",
+      "journal": "IEEE Sensors Journal",
+      "url": "https://doi.org/10.1109/jsen.2026.3716800"
+    },
+    {
+      "date": "2026-09-05",
+      "doi": "10.1109/jsen.2026.3713612",
+      "title": "Optical Tactile Force Sensing With a Soft Transparent Sensory Skin Using Laser Time-of-Flight Measurement and Nonlinear Modeling",
+      "journal": "IEEE Sensors Journal",
+      "url": "https://doi.org/10.1109/jsen.2026.3713612"
     }
   ],
   "digests": [
