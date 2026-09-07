@@ -1511,6 +1511,27 @@
       "title": "Quantitative Analysis of Evoked Haptic Sensations by Transcutaneous Electrical Nerve Stimulation for Electrode Array Size Optimization",
       "journal": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
       "url": "https://doi.org/10.1109/tnsre.2026.3713376"
+    },
+    {
+      "date": "2026-09-07",
+      "doi": "10.1109/tnsre.2026.3691422",
+      "title": "Guidance Framework for Selecting Virtual Hand Illusion Paradigms to Enhance Motor Imagery via Sense of Ownership in Stroke Rehabilitation",
+      "journal": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+      "url": "https://doi.org/10.1109/tnsre.2026.3691422"
+    },
+    {
+      "date": "2026-09-07",
+      "doi": "10.1109/tnsre.2026.3690647",
+      "title": "Adaptive Gait Assistance for Foot Drop Rehabilitation Based on Uncertainty Fusion of Contralateral Limb Information",
+      "journal": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+      "url": "https://doi.org/10.1109/tnsre.2026.3690647"
+    },
+    {
+      "date": "2026-09-07",
+      "doi": "10.1109/tnsre.2026.3687639",
+      "title": "Interpretable Force Perturbations Promote Gait Variability Without Affecting Perceived Exoskeleton Transparency",
+      "journal": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+      "url": "https://doi.org/10.1109/tnsre.2026.3687639"
     }
   ],
   "digests": [
