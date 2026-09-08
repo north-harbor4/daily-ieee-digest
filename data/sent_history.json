@@ -1532,6 +1532,27 @@
       "title": "Interpretable Force Perturbations Promote Gait Variability Without Affecting Perceived Exoskeleton Transparency",
       "journal": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
       "url": "https://doi.org/10.1109/tnsre.2026.3687639"
+    },
+    {
+      "date": "2026-09-08",
+      "doi": "10.1109/tbme.2025.3648564",
+      "title": "PDWearML: Leveraging Daily Activities for Fast Parkinson’s Disease Severity Assessment With Wearable Machine Learning",
+      "journal": "IEEE Transactions on Biomedical Engineering",
+      "url": "https://doi.org/10.1109/tbme.2025.3648564"
+    },
+    {
+      "date": "2026-09-08",
+      "doi": "10.1109/tbme.2025.3649508",
+      "title": "Longitudinal Monitoring of Full-Course Gait Rehabilitation Using Musculoskeletal Modeling and Muscle Coordination Analysis",
+      "journal": "IEEE Transactions on Biomedical Engineering",
+      "url": "https://doi.org/10.1109/tbme.2025.3649508"
+    },
+    {
+      "date": "2026-09-08",
+      "doi": "10.1109/tbme.2025.3643493",
+      "title": "A Sparse Constrained Optimization Method for Resolving Coincident Single-Cell Events in Microfluidic-Based Impedance Sensing",
+      "journal": "IEEE Transactions on Biomedical Engineering",
+      "url": "https://doi.org/10.1109/tbme.2025.3643493"
     }
   ],
   "digests": [
