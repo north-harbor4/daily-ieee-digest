@@ -1553,6 +1553,27 @@
       "title": "A Sparse Constrained Optimization Method for Resolving Coincident Single-Cell Events in Microfluidic-Based Impedance Sensing",
       "journal": "IEEE Transactions on Biomedical Engineering",
       "url": "https://doi.org/10.1109/tbme.2025.3643493"
+    },
+    {
+      "date": "2026-09-09",
+      "doi": "10.1109/tbcas.2025.3610879",
+      "title": "An Energy-Efficient ECG Classifier With On-Chip Learning Using Binarized Convolutional Neural Network",
+      "journal": "IEEE Transactions on Biomedical Circuits and Systems",
+      "url": "https://doi.org/10.1109/tbcas.2025.3610879"
+    },
+    {
+      "date": "2026-09-09",
+      "doi": "10.1109/tbcas.2025.3624394",
+      "title": "Common-Mode Interference in Biopotential Amplifiers: Modeling, Analysis, and Design Strategies for Various Recording Setups",
+      "journal": "IEEE Transactions on Biomedical Circuits and Systems",
+      "url": "https://doi.org/10.1109/tbcas.2025.3624394"
+    },
+    {
+      "date": "2026-09-09",
+      "doi": "10.1109/tbcas.2025.3607203",
+      "title": "Wearable Stimulator for Upper and Lower Limb Somatotopic Sensory Feedback Restoration",
+      "journal": "IEEE Transactions on Biomedical Circuits and Systems",
+      "url": "https://doi.org/10.1109/tbcas.2025.3607203"
     }
   ],
   "digests": [
