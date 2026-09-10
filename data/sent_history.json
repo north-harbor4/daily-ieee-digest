@@ -1574,6 +1574,27 @@
       "title": "Wearable Stimulator for Upper and Lower Limb Somatotopic Sensory Feedback Restoration",
       "journal": "IEEE Transactions on Biomedical Circuits and Systems",
       "url": "https://doi.org/10.1109/tbcas.2025.3607203"
+    },
+    {
+      "date": "2026-09-10",
+      "doi": "10.1109/jsen.2026.3715189",
+      "title": "A Low-Cost, Scalable ENIG-PCB Electrode Platform With Reproducible Performance for Electrochemical Biosensing",
+      "journal": "IEEE Sensors Journal",
+      "url": "https://doi.org/10.1109/jsen.2026.3715189"
+    },
+    {
+      "date": "2026-09-10",
+      "doi": "10.1109/jsen.2026.3716269",
+      "title": "Nanosculptured Thin Film-Based SERS Biosensor for Detection of S100\n                    <i>β</i>\n                    in Blast-Wave-Exposed Rat Sera",
+      "journal": "IEEE Sensors Journal",
+      "url": "https://doi.org/10.1109/jsen.2026.3716269"
+    },
+    {
+      "date": "2026-09-10",
+      "doi": "10.1109/jsen.2026.3715750",
+      "title": "Electrocardiogram Monitoring via Fiber Bragg Grating-Based Laryngeal Sensing and the Laryngeal-Vibration-to-ECG Network",
+      "journal": "IEEE Sensors Journal",
+      "url": "https://doi.org/10.1109/jsen.2026.3715750"
     }
   ],
   "digests": [
