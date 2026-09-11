@@ -1595,6 +1595,27 @@
       "title": "Electrocardiogram Monitoring via Fiber Bragg Grating-Based Laryngeal Sensing and the Laryngeal-Vibration-to-ECG Network",
       "journal": "IEEE Sensors Journal",
       "url": "https://doi.org/10.1109/jsen.2026.3715750"
+    },
+    {
+      "date": "2026-09-11",
+      "doi": "10.1109/tro.2026.3696049",
+      "title": "Hidden Markov Model-Based Shared Autonomy for Grip Strength Regulation in sEMG Driven Robot Hand Control",
+      "journal": "IEEE Transactions on Robotics",
+      "url": "https://doi.org/10.1109/tro.2026.3696049"
+    },
+    {
+      "date": "2026-09-11",
+      "doi": "10.1109/tro.2026.3712458",
+      "title": "Bending-Aware Vision Co-Pilot for Intelligent Robotic Assistance in Endovascular Intervention",
+      "journal": "IEEE Transactions on Robotics",
+      "url": "https://doi.org/10.1109/tro.2026.3712458"
+    },
+    {
+      "date": "2026-09-11",
+      "doi": "10.1109/tro.2026.3710400",
+      "title": "LiDAR-BIND-T: Temporally Consistent Sensor Modality Translation and Fusion for Robotic Applications",
+      "journal": "IEEE Transactions on Robotics",
+      "url": "https://doi.org/10.1109/tro.2026.3710400"
     }
   ],
   "digests": [
