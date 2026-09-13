@@ -1637,6 +1637,27 @@
       "title": "Compelling People to Move: Recent Progress in Haptic Technologies for Human Motion Induction in IEEE Transactions on Haptics",
       "journal": "IEEE Transactions on Haptics",
       "url": "https://doi.org/10.1109/toh.2026.3694060"
+    },
+    {
+      "date": "2026-09-13",
+      "doi": "10.1109/lra.2026.3728346",
+      "title": "Design of an Extensible Central Backbone for Stiffness-Shifting in Soft Robotic Arms",
+      "journal": "IEEE Robotics and Automation Letters",
+      "url": "https://doi.org/10.1109/lra.2026.3728346"
+    },
+    {
+      "date": "2026-09-13",
+      "doi": "10.1109/lra.2026.3723309",
+      "title": "RobotDancing: Residual-Action Reinforcement Learning Enables Robust Long-Horizon Humanoid Motion Tracking",
+      "journal": "IEEE Robotics and Automation Letters",
+      "url": "https://doi.org/10.1109/lra.2026.3723309"
+    },
+    {
+      "date": "2026-09-13",
+      "doi": "10.1109/lra.2026.3728380",
+      "title": "An Untethered Insect-Scale Piezoelectric Robot With High Load-Carrying Capability",
+      "journal": "IEEE Robotics and Automation Letters",
+      "url": "https://doi.org/10.1109/lra.2026.3728380"
     }
   ],
   "digests": [
