@@ -1658,6 +1658,27 @@
       "title": "An Untethered Insect-Scale Piezoelectric Robot With High Load-Carrying Capability",
       "journal": "IEEE Robotics and Automation Letters",
       "url": "https://doi.org/10.1109/lra.2026.3728380"
+    },
+    {
+      "date": "2026-09-15",
+      "doi": "10.1109/tnsre.2026.3689147",
+      "title": "A 3-DoF Wrist Control Based on Natural Arm Movements Outperforms Current Myoelectric Prosthesis in VR",
+      "journal": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+      "url": "https://doi.org/10.1109/tnsre.2026.3689147"
+    },
+    {
+      "date": "2026-09-15",
+      "doi": "10.1109/tnsre.2025.3636432",
+      "title": "Improving Foot Rocker via Robot-Resisted Gait Training With Self-Awareness Biofeedback in Adults With Cerebral Palsy",
+      "journal": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+      "url": "https://doi.org/10.1109/tnsre.2025.3636432"
+    },
+    {
+      "date": "2026-09-15",
+      "doi": "10.1109/tnsre.2026.3700987",
+      "title": "Machine Learning and AI Applied to fNIRS Data Reveals Novel Brain Activity Biomarkers in Stable Subclinical Multiple Sclerosis",
+      "journal": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+      "url": "https://doi.org/10.1109/tnsre.2026.3700987"
     }
   ],
   "digests": [
