@@ -1679,6 +1679,27 @@
       "title": "Machine Learning and AI Applied to fNIRS Data Reveals Novel Brain Activity Biomarkers in Stable Subclinical Multiple Sclerosis",
       "journal": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
       "url": "https://doi.org/10.1109/tnsre.2026.3700987"
+    },
+    {
+      "date": "2026-09-16",
+      "doi": "10.1109/jsen.2026.3718065",
+      "title": "Wearable Strain Sensing Using Near-Field Coupled Zigzag Metamaterial Absorber",
+      "journal": "IEEE Sensors Journal",
+      "url": "https://doi.org/10.1109/jsen.2026.3718065"
+    },
+    {
+      "date": "2026-09-16",
+      "doi": "10.1109/jsen.2026.3713791",
+      "title": "Transient Response of Ion-Selective Potentiometric Wearable/Implantable Sensors",
+      "journal": "IEEE Sensors Journal",
+      "url": "https://doi.org/10.1109/jsen.2026.3713791"
+    },
+    {
+      "date": "2026-09-16",
+      "doi": "10.1109/jsen.2026.3706823",
+      "title": "Droplet Viscometry on a Digital Microfluidic Platform via Impedance Sensing",
+      "journal": "IEEE Sensors Journal",
+      "url": "https://doi.org/10.1109/jsen.2026.3706823"
     }
   ],
   "digests": [
