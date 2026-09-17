@@ -1700,6 +1700,27 @@
       "title": "Droplet Viscometry on a Digital Microfluidic Platform via Impedance Sensing",
       "journal": "IEEE Sensors Journal",
       "url": "https://doi.org/10.1109/jsen.2026.3706823"
+    },
+    {
+      "date": "2026-09-17",
+      "doi": "10.1109/lra.2026.3728282",
+      "title": "Dual-Weight Optimized Anisotropic Kriging Compensation for Industrial Robots in Heterogeneous Error Fields With Drilling Verification",
+      "journal": "IEEE Robotics and Automation Letters",
+      "url": "https://doi.org/10.1109/lra.2026.3728282"
+    },
+    {
+      "date": "2026-09-17",
+      "doi": "10.1109/lra.2026.3729470",
+      "title": "Variable-Stiffness Joint Enabling Multiple Adhesion and Detachment Strategies for Climbing Robots",
+      "journal": "IEEE Robotics and Automation Letters",
+      "url": "https://doi.org/10.1109/lra.2026.3729470"
+    },
+    {
+      "date": "2026-09-17",
+      "doi": "10.1109/lra.2026.3728345",
+      "title": "World4RL: Diffusion World Models for Policy Refinement With Reinforcement Learning for Robotic Manipulation",
+      "journal": "IEEE Robotics and Automation Letters",
+      "url": "https://doi.org/10.1109/lra.2026.3728345"
     }
   ],
   "digests": [
