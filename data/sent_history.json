@@ -1721,6 +1721,27 @@
       "title": "World4RL: Diffusion World Models for Policy Refinement With Reinforcement Learning for Robotic Manipulation",
       "journal": "IEEE Robotics and Automation Letters",
       "url": "https://doi.org/10.1109/lra.2026.3728345"
+    },
+    {
+      "date": "2026-09-20",
+      "doi": "10.1109/tro.2026.3723945",
+      "title": "The Nonsmooth Impact Direction (NSID) of Robotic Systems",
+      "journal": "IEEE Transactions on Robotics",
+      "url": "https://doi.org/10.1109/tro.2026.3723945"
+    },
+    {
+      "date": "2026-09-20",
+      "doi": "10.1109/tro.2026.3663977",
+      "title": "Design and Implementation of an Anthropomorphic Robotic Hand With Key Kinematic Properties of the Human Hand",
+      "journal": "IEEE Transactions on Robotics",
+      "url": "https://doi.org/10.1109/tro.2026.3663977"
+    },
+    {
+      "date": "2026-09-20",
+      "doi": "10.1109/tro.2026.3658294",
+      "title": "SandWorm: Event-Based Visuotactile Perception With Active Vibration for Screw-Actuated Robot in Granular Media",
+      "journal": "IEEE Transactions on Robotics",
+      "url": "https://doi.org/10.1109/tro.2026.3658294"
     }
   ],
   "digests": [
