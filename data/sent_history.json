@@ -1742,6 +1742,27 @@
       "title": "SandWorm: Event-Based Visuotactile Perception With Active Vibration for Screw-Actuated Robot in Granular Media",
       "journal": "IEEE Transactions on Robotics",
       "url": "https://doi.org/10.1109/tro.2026.3658294"
+    },
+    {
+      "date": "2026-09-21",
+      "doi": "10.1109/tro.2025.3631818",
+      "title": "Generalizable and Fast Surrogates: Model Predictive Control of Articulated Soft Robots Using Physics-Informed Neural Networks",
+      "journal": "IEEE Transactions on Robotics",
+      "url": "https://doi.org/10.1109/tro.2025.3631818"
+    },
+    {
+      "date": "2026-09-21",
+      "doi": "10.1109/tro.2026.3706564",
+      "title": "Safety-Aware Adaptive Visual Servoing of Soft Robots through Online Shape-Force Transformation",
+      "journal": "IEEE Transactions on Robotics",
+      "url": "https://doi.org/10.1109/tro.2026.3706564"
+    },
+    {
+      "date": "2026-09-21",
+      "doi": "10.1109/tro.2026.3672482",
+      "title": "Real-Time Monocular 2-D and 3-D Perception of Endoluminal Scenes for Controlling Flexible Robotic Endoscopic Instruments",
+      "journal": "IEEE Transactions on Robotics",
+      "url": "https://doi.org/10.1109/tro.2026.3672482"
     }
   ],
   "digests": [
