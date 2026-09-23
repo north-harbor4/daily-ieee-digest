@@ -1763,6 +1763,27 @@
       "title": "Real-Time Monocular 2-D and 3-D Perception of Endoluminal Scenes for Controlling Flexible Robotic Endoscopic Instruments",
       "journal": "IEEE Transactions on Robotics",
       "url": "https://doi.org/10.1109/tro.2026.3672482"
+    },
+    {
+      "date": "2026-09-23",
+      "doi": "10.1109/tnsre.2025.3650042",
+      "title": "Biofeedback Speeds Adaptation to Exoskeleton Gait Assistance",
+      "journal": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+      "url": "https://doi.org/10.1109/tnsre.2025.3650042"
+    },
+    {
+      "date": "2026-09-23",
+      "doi": "10.1109/tnsre.2026.3680643",
+      "title": "Toward Simultaneous Neurostimulation and Prosthetic Control: Real-Time Filtering of Amplitude-Modulated Stimulation Artifacts From Implanted Electrode Signals",
+      "journal": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+      "url": "https://doi.org/10.1109/tnsre.2026.3680643"
+    },
+    {
+      "date": "2026-09-23",
+      "doi": "10.1109/tnsre.2026.3676837",
+      "title": "High-Performance Cross-Subject Decoding of Multiclass Rhythmic Motor Imagery Using EEG Data From 100 Subjects",
+      "journal": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+      "url": "https://doi.org/10.1109/tnsre.2026.3676837"
     }
   ],
   "digests": [
