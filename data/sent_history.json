@@ -1784,6 +1784,27 @@
       "title": "High-Performance Cross-Subject Decoding of Multiclass Rhythmic Motor Imagery Using EEG Data From 100 Subjects",
       "journal": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
       "url": "https://doi.org/10.1109/tnsre.2026.3676837"
+    },
+    {
+      "date": "2026-09-24",
+      "doi": "10.1109/lra.2026.3731854",
+      "title": "InstructGrasp: A Real-Time Language-Guided Grasp Pose Detection for Robotic Manipulation",
+      "journal": "IEEE Robotics and Automation Letters",
+      "url": "https://doi.org/10.1109/lra.2026.3731854"
+    },
+    {
+      "date": "2026-09-24",
+      "doi": "10.1109/lra.2026.3732837",
+      "title": "TransDex: Interaction Geometry Enables Robust Visuo-Tactile Dexterous Manipulation of Transparent Objects",
+      "journal": "IEEE Robotics and Automation Letters",
+      "url": "https://doi.org/10.1109/lra.2026.3732837"
+    },
+    {
+      "date": "2026-09-24",
+      "doi": "10.1109/lra.2026.3730393",
+      "title": "A Sarcomere-Inspired Magnetic Recruitment Array Actuator for Load-Adaptive Robotic Arm Actuation",
+      "journal": "IEEE Robotics and Automation Letters",
+      "url": "https://doi.org/10.1109/lra.2026.3730393"
     }
   ],
   "digests": [
