@@ -1805,6 +1805,27 @@
       "title": "A Sarcomere-Inspired Magnetic Recruitment Array Actuator for Load-Adaptive Robotic Arm Actuation",
       "journal": "IEEE Robotics and Automation Letters",
       "url": "https://doi.org/10.1109/lra.2026.3730393"
+    },
+    {
+      "date": "2026-09-25",
+      "doi": "10.1109/toh.2026.3679974",
+      "title": "Harnessing the Power of Practice to Determine Inter-Stimulus Timing for Tactile Word Recognition",
+      "journal": "IEEE Transactions on Haptics",
+      "url": "https://doi.org/10.1109/toh.2026.3679974"
+    },
+    {
+      "date": "2026-09-25",
+      "doi": "10.1109/toh.2026.3676160",
+      "title": "A Direction-Dependent Mechanotransduction Model to Convert Fingertip Forces Into Neural Spike Trains for Tactile Feedback",
+      "journal": "IEEE Transactions on Haptics",
+      "url": "https://doi.org/10.1109/toh.2026.3676160"
+    },
+    {
+      "date": "2026-09-25",
+      "doi": "10.1109/toh.2026.3677687",
+      "title": "Write Together: Using Haptic Coupling to Enhance Children’s Handwriting",
+      "journal": "IEEE Transactions on Haptics",
+      "url": "https://doi.org/10.1109/toh.2026.3677687"
     }
   ],
   "digests": [
