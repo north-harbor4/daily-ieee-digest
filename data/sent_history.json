@@ -1847,6 +1847,27 @@
       "title": "Ra\n                    <i>C</i>\n                    : Robot Learning for Long-Horizon Tasks by Scaling\n                    <u>R</u>\n                    ecovery\n                    <u>a</u>\n                    nd\n                    <u>C</u>\n                    orrection",
       "journal": "IEEE Transactions on Robotics",
       "url": "https://doi.org/10.1109/tro.2026.3706552"
+    },
+    {
+      "date": "2026-09-27",
+      "doi": "10.1109/tnsre.2026.3689068",
+      "title": "Brain-Controlled Wheeled Mobile Robots: A Shared Control Framework Integrating Event-Triggered Mechanism and Deep Reinforcement Learning",
+      "journal": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+      "url": "https://doi.org/10.1109/tnsre.2026.3689068"
+    },
+    {
+      "date": "2026-09-27",
+      "doi": "10.1109/tnsre.2026.3723771",
+      "title": "A Multi-Scale Adaptive EEG Feature Selection and Weighting Method for Mental Workload Estimation in Rapid Serial Visual Presentation",
+      "journal": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+      "url": "https://doi.org/10.1109/tnsre.2026.3723771"
+    },
+    {
+      "date": "2026-09-27",
+      "doi": "10.1109/tnsre.2026.3680897",
+      "title": "Decomposed Transfer Entropy for EEG Brain Networks: Parkinson’s Disease and Dopaminergic Modulation",
+      "journal": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+      "url": "https://doi.org/10.1109/tnsre.2026.3680897"
     }
   ],
   "digests": [
