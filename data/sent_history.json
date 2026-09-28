@@ -1868,6 +1868,27 @@
       "title": "Decomposed Transfer Entropy for EEG Brain Networks: Parkinson’s Disease and Dopaminergic Modulation",
       "journal": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
       "url": "https://doi.org/10.1109/tnsre.2026.3680897"
+    },
+    {
+      "date": "2026-09-28",
+      "doi": "10.1109/lra.2026.3730387",
+      "title": "Squint: Fast Visual Reinforcement Learning for Sim-to-Real Robotics",
+      "journal": "IEEE Robotics and Automation Letters",
+      "url": "https://doi.org/10.1109/lra.2026.3730387"
+    },
+    {
+      "date": "2026-09-28",
+      "doi": "10.1109/lra.2026.3730344",
+      "title": "Modular and Scalable Bistable Electronics-Free Pneumatic Oscillators for Soft Robotic Applications",
+      "journal": "IEEE Robotics and Automation Letters",
+      "url": "https://doi.org/10.1109/lra.2026.3730344"
+    },
+    {
+      "date": "2026-09-28",
+      "doi": "10.1109/lra.2026.3732914",
+      "title": "Multi-Skill Learning-Based Variable Stiffness Control for Upper-Limb Rehabilitation Robot",
+      "journal": "IEEE Robotics and Automation Letters",
+      "url": "https://doi.org/10.1109/lra.2026.3732914"
     }
   ],
   "digests": [
