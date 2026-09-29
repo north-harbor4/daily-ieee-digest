@@ -1889,6 +1889,27 @@
       "title": "Multi-Skill Learning-Based Variable Stiffness Control for Upper-Limb Rehabilitation Robot",
       "journal": "IEEE Robotics and Automation Letters",
       "url": "https://doi.org/10.1109/lra.2026.3732914"
+    },
+    {
+      "date": "2026-09-29",
+      "doi": "10.1109/tbcas.2026.3680158",
+      "title": "Wearable 3D Transmitter for Omnidirectional Wireless Energy Delivery for Microrobot",
+      "journal": "IEEE Transactions on Biomedical Circuits and Systems",
+      "url": "https://doi.org/10.1109/tbcas.2026.3680158"
+    },
+    {
+      "date": "2026-09-29",
+      "doi": "10.1109/tbcas.2026.3697523",
+      "title": "An 820uW Low Jitter Digital Injection-Locked PLL Using Differential Multi-Phase Injection and Self-Calibration for Biosensing Applications",
+      "journal": "IEEE Transactions on Biomedical Circuits and Systems",
+      "url": "https://doi.org/10.1109/tbcas.2026.3697523"
+    },
+    {
+      "date": "2026-09-29",
+      "doi": "10.1109/tbcas.2026.3707974",
+      "title": "A VPG-Based Adaptive Windowing PPG Sensor IC for Low-Power Wearable Monitoring",
+      "journal": "IEEE Transactions on Biomedical Circuits and Systems",
+      "url": "https://doi.org/10.1109/tbcas.2026.3707974"
     }
   ],
   "digests": [
