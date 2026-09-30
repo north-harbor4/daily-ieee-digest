@@ -1910,6 +1910,27 @@
       "title": "A VPG-Based Adaptive Windowing PPG Sensor IC for Low-Power Wearable Monitoring",
       "journal": "IEEE Transactions on Biomedical Circuits and Systems",
       "url": "https://doi.org/10.1109/tbcas.2026.3707974"
+    },
+    {
+      "date": "2026-09-30",
+      "doi": "10.1109/toh.2026.3665126",
+      "title": "From Sight to Touch: Haptic Sensory Integration Can Facilitate Multi-Limb Coordination",
+      "journal": "IEEE Transactions on Haptics",
+      "url": "https://doi.org/10.1109/toh.2026.3665126"
+    },
+    {
+      "date": "2026-09-30",
+      "doi": "10.1109/toh.2026.3686731",
+      "title": "Vibrohaptic Design for Simulating High-Five Interactions at Virtual Talent Fan Meetings",
+      "journal": "IEEE Transactions on Haptics",
+      "url": "https://doi.org/10.1109/toh.2026.3686731"
+    },
+    {
+      "date": "2026-09-30",
+      "doi": "10.1109/toh.2026.3686665",
+      "title": "A Comparative Study on Reaction Times Using Visual, Audio, and Haptic Stimuli With Direct, Encoded or Dynamic Deliveries",
+      "journal": "IEEE Transactions on Haptics",
+      "url": "https://doi.org/10.1109/toh.2026.3686665"
     }
   ],
   "digests": [
