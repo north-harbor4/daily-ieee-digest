@@ -1931,6 +1931,27 @@
       "title": "A Comparative Study on Reaction Times Using Visual, Audio, and Haptic Stimuli With Direct, Encoded or Dynamic Deliveries",
       "journal": "IEEE Transactions on Haptics",
       "url": "https://doi.org/10.1109/toh.2026.3686665"
+    },
+    {
+      "date": "2026-10-01",
+      "doi": "10.1109/tbme.2026.3653495",
+      "title": "Variational Instance-Adaptive Personalized Stress Recognition Based on Wearable Sensor Signals",
+      "journal": "IEEE Transactions on Biomedical Engineering",
+      "url": "https://doi.org/10.1109/tbme.2026.3653495"
+    },
+    {
+      "date": "2026-10-01",
+      "doi": "10.1109/tbme.2026.3655724",
+      "title": "Non-Invasive Sensing of Active and Passive Joint Acoustic Emissions as a Biomarker of Periprosthetic Joint Effusions",
+      "journal": "IEEE Transactions on Biomedical Engineering",
+      "url": "https://doi.org/10.1109/tbme.2026.3655724"
+    },
+    {
+      "date": "2026-10-01",
+      "doi": "10.1109/tbme.2026.3651455",
+      "title": "Dynamic Cardiac Event Detection From Single-Arm Wearable ECG via a Contrastive Multitask Framework",
+      "journal": "IEEE Transactions on Biomedical Engineering",
+      "url": "https://doi.org/10.1109/tbme.2026.3651455"
     }
   ],
   "digests": [
