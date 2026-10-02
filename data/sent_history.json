@@ -1952,6 +1952,27 @@
       "title": "Dynamic Cardiac Event Detection From Single-Arm Wearable ECG via a Contrastive Multitask Framework",
       "journal": "IEEE Transactions on Biomedical Engineering",
       "url": "https://doi.org/10.1109/tbme.2026.3651455"
+    },
+    {
+      "date": "2026-10-02",
+      "doi": "10.1109/tbcas.2026.3728240",
+      "title": "Digital-Based Potentiostat and Mesoporous Microelectrode Co-Design for Non-Enzymatic Glucose Detection at 0.3V-\n                    <i>V</i>\n                    <sub>DD</sub>\n                    and 1.65nW-Power",
+      "journal": "IEEE Transactions on Biomedical Circuits and Systems",
+      "url": "https://doi.org/10.1109/tbcas.2026.3728240"
+    },
+    {
+      "date": "2026-10-02",
+      "doi": "10.1109/tbcas.2026.3719439",
+      "title": "Motion-Aware Low-Power Wearable Photoplethysmography System with Metamaterial-Enhanced Wireless Telemetry",
+      "journal": "IEEE Transactions on Biomedical Circuits and Systems",
+      "url": "https://doi.org/10.1109/tbcas.2026.3719439"
+    },
+    {
+      "date": "2026-10-02",
+      "doi": "10.1109/tbcas.2026.3719430",
+      "title": "AutoFIR: An Automated Framework for Resource-Efficient EEG FIR Filtering on FPGAs",
+      "journal": "IEEE Transactions on Biomedical Circuits and Systems",
+      "url": "https://doi.org/10.1109/tbcas.2026.3719430"
     }
   ],
   "digests": [
