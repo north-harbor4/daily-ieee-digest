@@ -1973,6 +1973,27 @@
       "title": "AutoFIR: An Automated Framework for Resource-Efficient EEG FIR Filtering on FPGAs",
       "journal": "IEEE Transactions on Biomedical Circuits and Systems",
       "url": "https://doi.org/10.1109/tbcas.2026.3719430"
+    },
+    {
+      "date": "2026-10-03",
+      "doi": "10.1109/tro.2026.3697140",
+      "title": "A Caterpillar-Type Miniature Robot for Adaptive Locomotion and Exploration of Tiny Rigid/Soft Pipes",
+      "journal": "IEEE Transactions on Robotics",
+      "url": "https://doi.org/10.1109/tro.2026.3697140"
+    },
+    {
+      "date": "2026-10-03",
+      "doi": "10.1109/tro.2025.3644350",
+      "title": "The Power of Persuasion: How Social Robots Influence Our Decisions in Collaborative Activities",
+      "journal": "IEEE Transactions on Robotics",
+      "url": "https://doi.org/10.1109/tro.2025.3644350"
+    },
+    {
+      "date": "2026-10-03",
+      "doi": "10.1109/tro.2026.3686187",
+      "title": "Deep Learning-Based Process Control of Microrobot Swarms Guided by Phase Diagrams",
+      "journal": "IEEE Transactions on Robotics",
+      "url": "https://doi.org/10.1109/tro.2026.3686187"
     }
   ],
   "digests": [
