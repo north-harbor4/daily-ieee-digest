@@ -1994,6 +1994,27 @@
       "title": "Deep Learning-Based Process Control of Microrobot Swarms Guided by Phase Diagrams",
       "journal": "IEEE Transactions on Robotics",
       "url": "https://doi.org/10.1109/tro.2026.3686187"
+    },
+    {
+      "date": "2026-10-04",
+      "doi": "10.1109/jsen.2026.3723731",
+      "title": "A Traceable Vectorial Calibration for MEMS Accelerometers Using Industrial Robotic Manipulators",
+      "journal": "IEEE Sensors Journal",
+      "url": "https://doi.org/10.1109/jsen.2026.3723731"
+    },
+    {
+      "date": "2026-10-04",
+      "doi": "10.1109/jsen.2026.3727201",
+      "title": "High-Performance Peptide Biosensor Based on Chemical Connection for Polystyrene Micro-Nano-Plastic Particles Detection in Water",
+      "journal": "IEEE Sensors Journal",
+      "url": "https://doi.org/10.1109/jsen.2026.3727201"
+    },
+    {
+      "date": "2026-10-04",
+      "doi": "10.1109/jsen.2026.3721337",
+      "title": "Self-Powered Enzyme-Functionalized Active Sensing System for Real-Time Noninvasive Sweat Biomarker Monitoring",
+      "journal": "IEEE Sensors Journal",
+      "url": "https://doi.org/10.1109/jsen.2026.3721337"
     }
   ],
   "digests": [
