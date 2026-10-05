@@ -2015,6 +2015,27 @@
       "title": "Self-Powered Enzyme-Functionalized Active Sensing System for Real-Time Noninvasive Sweat Biomarker Monitoring",
       "journal": "IEEE Sensors Journal",
       "url": "https://doi.org/10.1109/jsen.2026.3721337"
+    },
+    {
+      "date": "2026-10-05",
+      "doi": "10.1109/tro.2026.3734131",
+      "title": "GelSLAM: A Real-time, High-Fidelity, and Robust 3D Tactile SLAM System",
+      "journal": "IEEE Transactions on Robotics",
+      "url": "https://doi.org/10.1109/tro.2026.3734131"
+    },
+    {
+      "date": "2026-10-05",
+      "doi": "10.1109/tro.2026.3697156",
+      "title": "6-D Tip Wrench Estimation for Continuum Robots: A Koopman-UKF-Wrench Decomposition Approach",
+      "journal": "IEEE Transactions on Robotics",
+      "url": "https://doi.org/10.1109/tro.2026.3697156"
+    },
+    {
+      "date": "2026-10-05",
+      "doi": "10.1109/tro.2026.3721782",
+      "title": "G-raph Hand: A Reconfigurable Anthropomorphic Hand With Hybrid Control and Lightweight Closure-Guided In-Hand Manipulation",
+      "journal": "IEEE Transactions on Robotics",
+      "url": "https://doi.org/10.1109/tro.2026.3721782"
     }
   ],
   "digests": [
