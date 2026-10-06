@@ -2036,6 +2036,13 @@
       "title": "G-raph Hand: A Reconfigurable Anthropomorphic Hand With Hybrid Control and Lightweight Closure-Guided In-Hand Manipulation",
       "journal": "IEEE Transactions on Robotics",
       "url": "https://doi.org/10.1109/tro.2026.3721782"
+    },
+    {
+      "date": "2026-10-06",
+      "doi": "10.1109/tbcas.2026.3719125",
+      "title": "Ingestible Sensing Capsule with Magnetic-Based Localization Using a Wearable Belt",
+      "journal": "IEEE Transactions on Biomedical Circuits and Systems",
+      "url": "https://doi.org/10.1109/tbcas.2026.3719125"
     }
   ],
   "digests": [
