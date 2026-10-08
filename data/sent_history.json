@@ -2064,6 +2064,27 @@
       "title": "Unilateral Ankle Exoskeleton Assistance Reshapes Gait: Temporal Parameters, Load Distribution, and Inter-Limb Symmetry",
       "journal": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
       "url": "https://doi.org/10.1109/tnsre.2026.3702885"
+    },
+    {
+      "date": "2026-10-08",
+      "doi": "10.1109/tbme.2026.3653051",
+      "title": "ECG-Adapt: A Novel Framework for Robust Electrocardiogram Classification Across Diverse Populations and Recording Conditions",
+      "journal": "IEEE Transactions on Biomedical Engineering",
+      "url": "https://doi.org/10.1109/tbme.2026.3653051"
+    },
+    {
+      "date": "2026-10-08",
+      "doi": "10.1109/tbme.2026.3652309",
+      "title": "Fusing Tabular Features and Deep Learning for Fetal Heart Rate Analysis: A Clinically Interpretable Model for Fetal Compromise Detection",
+      "journal": "IEEE Transactions on Biomedical Engineering",
+      "url": "https://doi.org/10.1109/tbme.2026.3652309"
+    },
+    {
+      "date": "2026-10-08",
+      "doi": "10.1109/tbme.2026.3654630",
+      "title": "A Point-of-Care High-Throughput Biosensing System of Home Monitoring for CRC Postoperative Recurrence by Detecting CEA, MicroRNA-21, and IL-6",
+      "journal": "IEEE Transactions on Biomedical Engineering",
+      "url": "https://doi.org/10.1109/tbme.2026.3654630"
     }
   ],
   "digests": [
