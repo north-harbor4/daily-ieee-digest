@@ -2106,6 +2106,27 @@
       "title": "Ankle Exoskeleton Assistance Reduces Knee Contact Force During Walking in Individuals With Cerebral Palsy",
       "journal": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
       "url": "https://doi.org/10.1109/tnsre.2026.3665134"
+    },
+    {
+      "date": "2026-10-11",
+      "doi": "10.1109/lra.2026.3734877",
+      "title": "Demonstrating Perseverance Rover Sample Transfer via a Robotics Capability Framework",
+      "journal": "IEEE Robotics and Automation Letters",
+      "url": "https://doi.org/10.1109/lra.2026.3734877"
+    },
+    {
+      "date": "2026-10-11",
+      "doi": "10.1109/lra.2026.3732999",
+      "title": "Zero-Shot Scene Geometry Recognition From Sparse Partial-View Images: Leveraging Generative Diffusion Models for Robotic Manipulation Tasks",
+      "journal": "IEEE Robotics and Automation Letters",
+      "url": "https://doi.org/10.1109/lra.2026.3732999"
+    },
+    {
+      "date": "2026-10-11",
+      "doi": "10.1109/lra.2026.3739025",
+      "title": "CC-VLA: Learning Control-Aware Compliance VLA Model for Robust Contact-Rich Robotic Manipulation",
+      "journal": "IEEE Robotics and Automation Letters",
+      "url": "https://doi.org/10.1109/lra.2026.3739025"
     }
   ],
   "digests": [
