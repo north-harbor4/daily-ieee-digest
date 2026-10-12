@@ -2127,6 +2127,27 @@
       "title": "CC-VLA: Learning Control-Aware Compliance VLA Model for Robust Contact-Rich Robotic Manipulation",
       "journal": "IEEE Robotics and Automation Letters",
       "url": "https://doi.org/10.1109/lra.2026.3739025"
+    },
+    {
+      "date": "2026-10-12",
+      "doi": "10.1109/lra.2026.3734874",
+      "title": "Robotic Cell Contents Extraction in Biological Tissues Based on Cell Membrane Capacitance Variation",
+      "journal": "IEEE Robotics and Automation Letters",
+      "url": "https://doi.org/10.1109/lra.2026.3734874"
+    },
+    {
+      "date": "2026-10-12",
+      "doi": "10.1109/lra.2026.3734883",
+      "title": "A Fast Physics-Based Tactile Sensor Simulator via Simplified FEM: Modeling, Calibration, and Sim-to-Real Validation",
+      "journal": "IEEE Robotics and Automation Letters",
+      "url": "https://doi.org/10.1109/lra.2026.3734883"
+    },
+    {
+      "date": "2026-10-12",
+      "doi": "10.1109/lra.2026.3728323",
+      "title": "Efficient Online Robotic Reinforcement Learning With Explicit Manifold Alignment",
+      "journal": "IEEE Robotics and Automation Letters",
+      "url": "https://doi.org/10.1109/lra.2026.3728323"
     }
   ],
   "digests": [
