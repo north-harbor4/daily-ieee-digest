@@ -2148,6 +2148,27 @@
       "title": "Efficient Online Robotic Reinforcement Learning With Explicit Manifold Alignment",
       "journal": "IEEE Robotics and Automation Letters",
       "url": "https://doi.org/10.1109/lra.2026.3728323"
+    },
+    {
+      "date": "2026-10-13",
+      "doi": "10.1109/toh.2026.3702732",
+      "title": "Haptic Tracing: A New Paradigm for Spatialized Vibrotactile Haptic Rendering",
+      "journal": "IEEE Transactions on Haptics",
+      "url": "https://doi.org/10.1109/toh.2026.3702732"
+    },
+    {
+      "date": "2026-10-13",
+      "doi": "10.1109/toh.2026.3710603",
+      "title": "Reconciling Reduced the Sense of Ownership and Agency Toward a Virtual Keypad With Enhanced Haptic Experience Using Visually Adjusted Self-Haptics for Key-Input Interaction",
+      "journal": "IEEE Transactions on Haptics",
+      "url": "https://doi.org/10.1109/toh.2026.3710603"
+    },
+    {
+      "date": "2026-10-13",
+      "doi": "10.1109/toh.2026.3708136",
+      "title": "Power From Potential: A Survey of Electrostatic Actuators for Haptics",
+      "journal": "IEEE Transactions on Haptics",
+      "url": "https://doi.org/10.1109/toh.2026.3708136"
     }
   ],
   "digests": [
