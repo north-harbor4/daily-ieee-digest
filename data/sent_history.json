@@ -2169,6 +2169,27 @@
       "title": "Power From Potential: A Survey of Electrostatic Actuators for Haptics",
       "journal": "IEEE Transactions on Haptics",
       "url": "https://doi.org/10.1109/toh.2026.3708136"
+    },
+    {
+      "date": "2026-10-14",
+      "doi": "10.1109/jsen.2026.3721956",
+      "title": "Surface-Adaptive Robotic Ultrasound With Multisensor Fusion and Cascaded AI for 3-D Stenosis Assessment of Aneurysmal Arteriovenous Fistula",
+      "journal": "IEEE Sensors Journal",
+      "url": "https://doi.org/10.1109/jsen.2026.3721956"
+    },
+    {
+      "date": "2026-10-14",
+      "doi": "10.1109/jsen.2026.3708847",
+      "title": "Reliability Analysis of Piezoelectric Sensor Structures Based on Wave Theory: Identifying Critical Stress Concentration Zones Under High-Frequency Dynamic Loading",
+      "journal": "IEEE Sensors Journal",
+      "url": "https://doi.org/10.1109/jsen.2026.3708847"
+    },
+    {
+      "date": "2026-10-14",
+      "doi": "10.1109/jsen.2026.3724235",
+      "title": "Subspace Projection-Guided Dynamic Source Selection and Pseudo-Label Generation for Cross-Subject Domain-Adversarial EEG Emotion Recognition",
+      "journal": "IEEE Sensors Journal",
+      "url": "https://doi.org/10.1109/jsen.2026.3724235"
     }
   ],
   "digests": [
