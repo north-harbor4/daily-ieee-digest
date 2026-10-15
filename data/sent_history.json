@@ -2190,6 +2190,27 @@
       "title": "Subspace Projection-Guided Dynamic Source Selection and Pseudo-Label Generation for Cross-Subject Domain-Adversarial EEG Emotion Recognition",
       "journal": "IEEE Sensors Journal",
       "url": "https://doi.org/10.1109/jsen.2026.3724235"
+    },
+    {
+      "date": "2026-10-15",
+      "doi": "10.1109/toh.2026.3704717",
+      "title": "Study of the Influence of Visuo-Haptic Feedback on Prosthetic Embodiment",
+      "journal": "IEEE Transactions on Haptics",
+      "url": "https://doi.org/10.1109/toh.2026.3704717"
+    },
+    {
+      "date": "2026-10-15",
+      "doi": "10.1109/toh.2026.3704802",
+      "title": "From Keystrokes to Auditory Textures: Structural Acoustic Analysis of an Emergent Haptic Soundscape",
+      "journal": "IEEE Transactions on Haptics",
+      "url": "https://doi.org/10.1109/toh.2026.3704802"
+    },
+    {
+      "date": "2026-10-15",
+      "doi": "10.1109/toh.2026.3714920",
+      "title": "Spatio-Temporal Control of Vibrotactile Stimulation on OLED Displays With Inverse Filtering",
+      "journal": "IEEE Transactions on Haptics",
+      "url": "https://doi.org/10.1109/toh.2026.3714920"
     }
   ],
   "digests": [
