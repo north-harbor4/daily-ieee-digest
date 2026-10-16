@@ -2211,6 +2211,27 @@
       "title": "Spatio-Temporal Control of Vibrotactile Stimulation on OLED Displays With Inverse Filtering",
       "journal": "IEEE Transactions on Haptics",
       "url": "https://doi.org/10.1109/toh.2026.3714920"
+    },
+    {
+      "date": "2026-10-16",
+      "doi": "10.1109/tro.2026.3741518",
+      "title": "Nonlinear $\\mathcal {H}_{\\infty }$ Inverse-Optimal Impedance Control for Robotic Systems",
+      "journal": "IEEE Transactions on Robotics",
+      "url": "https://doi.org/10.1109/tro.2026.3741518"
+    },
+    {
+      "date": "2026-10-16",
+      "doi": "10.1109/tro.2026.3742238",
+      "title": "Census-Based Population Autonomy For Distributed Robotic Teaming",
+      "journal": "IEEE Transactions on Robotics",
+      "url": "https://doi.org/10.1109/tro.2026.3742238"
+    },
+    {
+      "date": "2026-10-16",
+      "doi": "10.1109/tro.2026.3741520",
+      "title": "Inverse Dynamic Modeling of Soft Parallel Robots Actuated by Dielectric Elastomer Actuators",
+      "journal": "IEEE Transactions on Robotics",
+      "url": "https://doi.org/10.1109/tro.2026.3741520"
     }
   ],
   "digests": [
