@@ -2232,6 +2232,27 @@
       "title": "Inverse Dynamic Modeling of Soft Parallel Robots Actuated by Dielectric Elastomer Actuators",
       "journal": "IEEE Transactions on Robotics",
       "url": "https://doi.org/10.1109/tro.2026.3741520"
+    },
+    {
+      "date": "2026-10-17",
+      "doi": "10.1109/tro.2026.3744512",
+      "title": "Biomechanics-Aware Trajectory Optimization for Online Navigation During Robotic Physiotherapy",
+      "journal": "IEEE Transactions on Robotics",
+      "url": "https://doi.org/10.1109/tro.2026.3744512"
+    },
+    {
+      "date": "2026-10-17",
+      "doi": "10.1109/tro.2025.3637130",
+      "title": "Knee-Inspired Hinge Absorbs Longitudinal Impacts to Enhance Robot-Environment Interaction Safety",
+      "journal": "IEEE Transactions on Robotics",
+      "url": "https://doi.org/10.1109/tro.2025.3637130"
+    },
+    {
+      "date": "2026-10-17",
+      "doi": "10.1109/tro.2026.3677010",
+      "title": "Safe and Agile Transportation of Cable-Suspended Payload via Multiple Aerial Robots",
+      "journal": "IEEE Transactions on Robotics",
+      "url": "https://doi.org/10.1109/tro.2026.3677010"
     }
   ],
   "digests": [
