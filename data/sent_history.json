@@ -2253,6 +2253,27 @@
       "title": "Safe and Agile Transportation of Cable-Suspended Payload via Multiple Aerial Robots",
       "journal": "IEEE Transactions on Robotics",
       "url": "https://doi.org/10.1109/tro.2026.3677010"
+    },
+    {
+      "date": "2026-10-18",
+      "doi": "10.1109/toh.2026.3686631",
+      "title": "A Wearable Shoulder Skin-Deformation Device Generating Illusory Forces for Posture Correction",
+      "journal": "IEEE Transactions on Haptics",
+      "url": "https://doi.org/10.1109/toh.2026.3686631"
+    },
+    {
+      "date": "2026-10-18",
+      "doi": "10.1109/toh.2026.3686185",
+      "title": "Propeller-Based Handheld Force-Feedback Device for Navigation",
+      "journal": "IEEE Transactions on Haptics",
+      "url": "https://doi.org/10.1109/toh.2026.3686185"
+    },
+    {
+      "date": "2026-10-18",
+      "doi": "10.1109/toh.2026.3685691",
+      "title": "VibGrasp: Spatiotemporal Vibration Based Multimodal Haptic Rendering With a Lightweight Exo-Glove for 3D Shape Perception",
+      "journal": "IEEE Transactions on Haptics",
+      "url": "https://doi.org/10.1109/toh.2026.3685691"
     }
   ],
   "digests": [
