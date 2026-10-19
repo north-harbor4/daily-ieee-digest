@@ -2274,6 +2274,13 @@
       "title": "VibGrasp: Spatiotemporal Vibration Based Multimodal Haptic Rendering With a Lightweight Exo-Glove for 3D Shape Perception",
       "journal": "IEEE Transactions on Haptics",
       "url": "https://doi.org/10.1109/toh.2026.3685691"
+    },
+    {
+      "date": "2026-10-19",
+      "doi": "10.1109/tbcas.2026.3742807",
+      "title": "Frequency-Division Multiplexed Wearable Wireless Sensor Network for Real-Time Motion Tracking using Magnetic Induction",
+      "journal": "IEEE Transactions on Biomedical Circuits and Systems",
+      "url": "https://doi.org/10.1109/tbcas.2026.3742807"
     }
   ],
   "digests": [
