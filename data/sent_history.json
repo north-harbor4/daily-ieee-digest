@@ -2281,6 +2281,27 @@
       "title": "Frequency-Division Multiplexed Wearable Wireless Sensor Network for Real-Time Motion Tracking using Magnetic Induction",
       "journal": "IEEE Transactions on Biomedical Circuits and Systems",
       "url": "https://doi.org/10.1109/tbcas.2026.3742807"
+    },
+    {
+      "date": "2026-10-20",
+      "doi": "10.1109/tnsre.2026.3664418",
+      "title": "Progressive Tactile Perception and Peripheral Hemodynamic Responses Induced by LIFUS on Fingertip",
+      "journal": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+      "url": "https://doi.org/10.1109/tnsre.2026.3664418"
+    },
+    {
+      "date": "2026-10-20",
+      "doi": "10.1109/tnsre.2026.3697980",
+      "title": "Development of a High-Precision Temporal Interference Stimulation System With Multi-Device Synchronization and Concurrent EEG",
+      "journal": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+      "url": "https://doi.org/10.1109/tnsre.2026.3697980"
+    },
+    {
+      "date": "2026-10-20",
+      "doi": "10.1109/tnsre.2026.3692207",
+      "title": "Forecasting Dropout in Home-Based Movement Rehabilitation After Stroke With Sensors and Machine Learning",
+      "journal": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+      "url": "https://doi.org/10.1109/tnsre.2026.3692207"
     }
   ],
   "digests": [
