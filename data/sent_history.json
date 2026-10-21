@@ -2302,6 +2302,27 @@
       "title": "Forecasting Dropout in Home-Based Movement Rehabilitation After Stroke With Sensors and Machine Learning",
       "journal": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
       "url": "https://doi.org/10.1109/tnsre.2026.3692207"
+    },
+    {
+      "date": "2026-10-21",
+      "doi": "10.1109/tbme.2026.3654639",
+      "title": "Neural Signatures and Multi-Cognitive Decoding of EEG Signals Induced by Shared Stimulus: A Paradigm Study",
+      "journal": "IEEE Transactions on Biomedical Engineering",
+      "url": "https://doi.org/10.1109/tbme.2026.3654639"
+    },
+    {
+      "date": "2026-10-21",
+      "doi": "10.1109/tbme.2026.3653824",
+      "title": "MSHANet: A Multiscale Hybrid Attention Network for Motor Imagery EEG Decoding",
+      "journal": "IEEE Transactions on Biomedical Engineering",
+      "url": "https://doi.org/10.1109/tbme.2026.3653824"
+    },
+    {
+      "date": "2026-10-21",
+      "doi": "10.1109/tbme.2026.3653024",
+      "title": "RUNet: A Zero-Calibration Framework for Cross-Domain EEG Decoding via Riemannian and Unsupervised Representation Learning",
+      "journal": "IEEE Transactions on Biomedical Engineering",
+      "url": "https://doi.org/10.1109/tbme.2026.3653024"
     }
   ],
   "digests": [
