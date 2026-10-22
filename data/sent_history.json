@@ -2323,6 +2323,27 @@
       "title": "RUNet: A Zero-Calibration Framework for Cross-Domain EEG Decoding via Riemannian and Unsupervised Representation Learning",
       "journal": "IEEE Transactions on Biomedical Engineering",
       "url": "https://doi.org/10.1109/tbme.2026.3653024"
+    },
+    {
+      "date": "2026-10-22",
+      "doi": "10.1109/lra.2026.3742281",
+      "title": "Deformable In-Hand Slip-Aware Tactile Sensor With Integrated Velocity Sensing, Force/Torque and Pressure Map Estimation",
+      "journal": "IEEE Robotics and Automation Letters",
+      "url": "https://doi.org/10.1109/lra.2026.3742281"
+    },
+    {
+      "date": "2026-10-22",
+      "doi": "10.1109/lra.2026.3739563",
+      "title": "X2-N: A Transformable Wheel-Legged Humanoid Robot With Dual-Mode Locomotion and Manipulation",
+      "journal": "IEEE Robotics and Automation Letters",
+      "url": "https://doi.org/10.1109/lra.2026.3739563"
+    },
+    {
+      "date": "2026-10-22",
+      "doi": "10.1109/lra.2026.3742271",
+      "title": "FlippingAGR: A Flipping Aerial-Ground Robot With Dual-Mode Terrestrial Locomotion",
+      "journal": "IEEE Robotics and Automation Letters",
+      "url": "https://doi.org/10.1109/lra.2026.3742271"
     }
   ],
   "digests": [
