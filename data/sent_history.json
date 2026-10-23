@@ -2344,6 +2344,27 @@
       "title": "FlippingAGR: A Flipping Aerial-Ground Robot With Dual-Mode Terrestrial Locomotion",
       "journal": "IEEE Robotics and Automation Letters",
       "url": "https://doi.org/10.1109/lra.2026.3742271"
+    },
+    {
+      "date": "2026-10-23",
+      "doi": "10.1109/tbme.2026.3658304",
+      "title": "Stress Detection Using Heart Rate Variability and Respiratory Signals Derived From a Single-Lead ECG",
+      "journal": "IEEE Transactions on Biomedical Engineering",
+      "url": "https://doi.org/10.1109/tbme.2026.3658304"
+    },
+    {
+      "date": "2026-10-23",
+      "doi": "10.1109/tbme.2026.3660692",
+      "title": "Disentangled Multimodal Spatiotemporal Learning for Hybrid EEG-fNIRS Brain–Computer Interface",
+      "journal": "IEEE Transactions on Biomedical Engineering",
+      "url": "https://doi.org/10.1109/tbme.2026.3660692"
+    },
+    {
+      "date": "2026-10-23",
+      "doi": "10.1109/tbme.2026.3660874",
+      "title": "Assist-as-Needed Hip Exoskeleton Control for Gait Asymmetry Correction via Human-in-the-Loop Optimization",
+      "journal": "IEEE Transactions on Biomedical Engineering",
+      "url": "https://doi.org/10.1109/tbme.2026.3660874"
     }
   ],
   "digests": [
