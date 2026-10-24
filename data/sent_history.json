@@ -2365,6 +2365,27 @@
       "title": "Assist-as-Needed Hip Exoskeleton Control for Gait Asymmetry Correction via Human-in-the-Loop Optimization",
       "journal": "IEEE Transactions on Biomedical Engineering",
       "url": "https://doi.org/10.1109/tbme.2026.3660874"
+    },
+    {
+      "date": "2026-10-24",
+      "doi": "10.1109/lra.2026.3742274",
+      "title": "Identifying and Exploiting Structure in Robot Co-Design",
+      "journal": "IEEE Robotics and Automation Letters",
+      "url": "https://doi.org/10.1109/lra.2026.3742274"
+    },
+    {
+      "date": "2026-10-24",
+      "doi": "10.1109/lra.2026.3743800",
+      "title": "RobotFuse: Real-Time Robot Pose and Joint Angle Estimation From a Single RGB-D Image",
+      "journal": "IEEE Robotics and Automation Letters",
+      "url": "https://doi.org/10.1109/lra.2026.3743800"
+    },
+    {
+      "date": "2026-10-24",
+      "doi": "10.1109/lra.2026.3739652",
+      "title": "Dynamic Multi-Agent Pickup and Delivery in Robotic Cellular Warehousing Systems",
+      "journal": "IEEE Robotics and Automation Letters",
+      "url": "https://doi.org/10.1109/lra.2026.3739652"
     }
   ],
   "digests": [
