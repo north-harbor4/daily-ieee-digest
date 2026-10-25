@@ -2386,6 +2386,27 @@
       "title": "Dynamic Multi-Agent Pickup and Delivery in Robotic Cellular Warehousing Systems",
       "journal": "IEEE Robotics and Automation Letters",
       "url": "https://doi.org/10.1109/lra.2026.3739652"
+    },
+    {
+      "date": "2026-10-25",
+      "doi": "10.1109/tnsre.2026.3677891",
+      "title": "Localizing Target for Transcranial Direct Current Stimulation in Drug-Resistant Epilepsy Using Dynamic EEG Source Network",
+      "journal": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+      "url": "https://doi.org/10.1109/tnsre.2026.3677891"
+    },
+    {
+      "date": "2026-10-25",
+      "doi": "10.1109/tnsre.2025.3639221",
+      "title": "Quantifying User Engagement During an Upper Limb Rehabilitation Task",
+      "journal": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+      "url": "https://doi.org/10.1109/tnsre.2025.3639221"
+    },
+    {
+      "date": "2026-10-25",
+      "doi": "10.1109/tnsre.2026.3693302",
+      "title": "EEG Correlates of Upper Limb Function During the Box and Block Test After Stroke",
+      "journal": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+      "url": "https://doi.org/10.1109/tnsre.2026.3693302"
     }
   ],
   "digests": [
