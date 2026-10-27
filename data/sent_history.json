@@ -2407,6 +2407,27 @@
       "title": "EEG Correlates of Upper Limb Function During the Box and Block Test After Stroke",
       "journal": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
       "url": "https://doi.org/10.1109/tnsre.2026.3693302"
+    },
+    {
+      "date": "2026-10-27",
+      "doi": "10.1109/lra.2026.3742286",
+      "title": "PofTac: A Robust Plastic Optical Fiber-Based Tactile Sensor for Shared Human-Robot Tactile Sensing",
+      "journal": "IEEE Robotics and Automation Letters",
+      "url": "https://doi.org/10.1109/lra.2026.3742286"
+    },
+    {
+      "date": "2026-10-27",
+      "doi": "10.1109/lra.2026.3744999",
+      "title": "Robotic Ultra-Long-Horizon Manipulation Skills via Human-Guided Lifelong Code Generation",
+      "journal": "IEEE Robotics and Automation Letters",
+      "url": "https://doi.org/10.1109/lra.2026.3744999"
+    },
+    {
+      "date": "2026-10-27",
+      "doi": "10.1109/lra.2026.3741743",
+      "title": "Design of a Robotic Gripper Based on Mechanism Doublet for Multifunctional Operations",
+      "journal": "IEEE Robotics and Automation Letters",
+      "url": "https://doi.org/10.1109/lra.2026.3741743"
     }
   ],
   "digests": [
