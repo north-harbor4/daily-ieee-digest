@@ -2428,6 +2428,27 @@
       "title": "Design of a Robotic Gripper Based on Mechanism Doublet for Multifunctional Operations",
       "journal": "IEEE Robotics and Automation Letters",
       "url": "https://doi.org/10.1109/lra.2026.3741743"
+    },
+    {
+      "date": "2026-10-28",
+      "doi": "10.1109/jsen.2026.3727597",
+      "title": "A High-Sensitivity and Wide-Range Capacitive Tactile Sensor With Elastic Microporous Electrode for Versatile Robotic Grasping",
+      "journal": "IEEE Sensors Journal",
+      "url": "https://doi.org/10.1109/jsen.2026.3727597"
+    },
+    {
+      "date": "2026-10-28",
+      "doi": "10.1109/jsen.2026.3731196",
+      "title": "Motion Estimation for Cable-Driven Surgical-Robotic Continuum Joints Using a Multibranch Coattention Recurrent Network",
+      "journal": "IEEE Sensors Journal",
+      "url": "https://doi.org/10.1109/jsen.2026.3731196"
+    },
+    {
+      "date": "2026-10-28",
+      "doi": "10.1109/jsen.2026.3731494",
+      "title": "A Wearable IMU-Based Gait Assessment Framework Utilizing Sequential Multivariate Dynamic Time Warping for Clinical Rehabilitation",
+      "journal": "IEEE Sensors Journal",
+      "url": "https://doi.org/10.1109/jsen.2026.3731494"
     }
   ],
   "digests": [
