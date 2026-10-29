@@ -2,14 +2,16 @@ name: Daily IEEE Digest
 # Sends the daily paper digest email from GitHub Actions.
 
 on:
-  schedule:
-    # Primary 08:00 Beijing time (UTC+8).
-    - cron: "0 0 * * *"
-    # Backup wake-ups. GitHub schedule can be delayed for hours; the script
-    # sends only once per Beijing date and only after 08:00 Asia/Shanghai.
-    - cron: "30 0 * * *"
-    - cron: "0 1 * * *"
-    - cron: "30 1 * * *"
+  # Automatic schedule disabled on 2026-10-29 at the owner's request.
+  # Restore the commented block below to resume the daily digest.
+  # schedule:
+  #   # Primary 08:00 Beijing time (UTC+8).
+  #   - cron: "0 0 * * *"
+  #   # Backup wake-ups. GitHub schedule can be delayed for hours; the script
+  #   # sends only once per Beijing date and only after 08:00 Asia/Shanghai.
+  #   - cron: "30 0 * * *"
+  #   - cron: "0 1 * * *"
+  #   - cron: "30 1 * * *"
   workflow_dispatch:
 
 jobs:
