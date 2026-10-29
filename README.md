@@ -1,5 +1,7 @@
 # Daily IEEE Digest
 
+> **状态：已停止每日自动推送。** 2026-10-29 移除了 workflow 的定时触发，仅保留手动 `workflow_dispatch`。
+
 `Daily IEEE Digest` 是一个基于 GitHub Actions 的论文邮件推送工具。
 
 每天自动筛选几篇我关心方向的新论文，整理成一封短邮件发到邮箱里，这样不用反复手动刷 IEEE Xplore、Crossref 或期刊主页。
