@@ -2449,6 +2449,27 @@
       "title": "A Wearable IMU-Based Gait Assessment Framework Utilizing Sequential Multivariate Dynamic Time Warping for Clinical Rehabilitation",
       "journal": "IEEE Sensors Journal",
       "url": "https://doi.org/10.1109/jsen.2026.3731494"
+    },
+    {
+      "date": "2026-10-29",
+      "doi": "10.1109/tro.2026.3747246",
+      "title": "Hierarchical Learning Framework for Task-Level Autonomous Intraoperative Image-Guided Robotic Catheterization with In-Vivo Validation",
+      "journal": "IEEE Transactions on Robotics",
+      "url": "https://doi.org/10.1109/tro.2026.3747246"
+    },
+    {
+      "date": "2026-10-29",
+      "doi": "10.1109/tro.2026.3742234",
+      "title": "Data-Augmented Adaptive Oscillators: A Framework for Robust Gait Phase Estimation in Exoskeleton Assistance",
+      "journal": "IEEE Transactions on Robotics",
+      "url": "https://doi.org/10.1109/tro.2026.3742234"
+    },
+    {
+      "date": "2026-10-29",
+      "doi": "10.1109/tro.2025.3637147",
+      "title": "Stochastic Adaptive Estimation in Polynomial Curvature Shape State Space for Continuum Robots",
+      "journal": "IEEE Transactions on Robotics",
+      "url": "https://doi.org/10.1109/tro.2025.3637147"
     }
   ],
   "digests": [
